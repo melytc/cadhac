@@ -10,7 +10,7 @@ body, a{
 	line-height: 120%;
 	font-size: 16px;
 }
-tbody tr:hover { background-color:#0090D7; }
+tbody tr:hover { background-color:#109347; }
 tbody tr:hover a{	color: #fff; }
 th{ color: #444; background: #FFF; text-align: left; padding: 20px 10px !important;}
 h1, h2, h3{ color: #2a2a2a; }
@@ -56,7 +56,7 @@ h1, h2, h3, h4, p, span { padding-top:0;padding-bottom:0px;	margin-top:0;margin-
 h1, h1 a { font-size: 30px; }
 h2, h2 a { font-size: 25px; }
 h3, h3 a { font-size: 18px; }	
-table{ border-spacing:0;  border-collapse:collapse; width: 100%; margin-bottom: 30px; }
+table{ border-spacing:0;  border-collapse:collapse; width: 100%; margin-bottom: 30px; border-bottom: 1px solid #ddd;}
 td, th{ vertical-align: middle; padding-right: 10px; padding-left: 10px; }
 th, td a{ padding-top: 10px; padding-bottom: 10px; }
 td{ border-top: 1px solid #ddd; }
