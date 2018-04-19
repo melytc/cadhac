@@ -60,7 +60,7 @@ function handleErrors(e) {
 // });
 
 
-gulp.task('clean', del.bind(null, ['css', 'img', 'js', './*.html', './*.php']));
+gulp.task('clean', del.bind(null, ['css', 'img', 'js', './*.html', './*.php', 'build']));
 /*
 	Browser Sync
 */
