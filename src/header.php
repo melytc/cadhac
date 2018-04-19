@@ -9,15 +9,16 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
 </head>
 <body>
-    <ul class="nav">
-        <li>Sobre nosotros</li>
-        <li>Qué hacemos</li>
-        <li>Comunicados</li>
-        <li>Publicados</li>
-        <li>Desaparecidos</li>
-        <li>Contacto</li>
-    </ul>
-    <button>Dona</button>
-    <p>English</p>
-</body>
-</html>
+    <div class="container">
+        <img src="img/cadhaclogo.svg" alt="CADHAC"/>
+        <p>English</p>
+        <button>Dona</button>
+        <ul class="nav">
+            <li>Sobre nosotros</li>
+            <li>Qué hacemos</li>
+            <li>Comunicados</li>
+            <li>Publicados</li>
+            <li>Desaparecidos</li>
+            <li>Contacto</li>
+        </ul>
+    </div>
