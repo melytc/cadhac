@@ -21,6 +21,7 @@ img{max-width: 100%;}
 ---------------------------------- */
 $primary: #109347;
 $green2: #299751;
+$lightgreen: #90c54c;
 $secondary: #74428f;
 $accent: #f4c80f;
 $grey: #777;
@@ -28,6 +29,7 @@ $text: #777;
 $bordergray: #ccc;
 $darkgray: #2a2a2a;
 $footerbg: #1b1d1f;
+$paleyellow: #e8eaa7;
 
 $colors: (
 	black: #000,
@@ -35,6 +37,8 @@ $colors: (
 	text: $grey,
 	primary: $primary,
 	secondary: $secondary,
+	lightgreen: $lightgreen,
+	paleyellow: $paleyellow,
 	accent: $accent,
 	green2: $green2
 );
