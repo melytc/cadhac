@@ -12,9 +12,9 @@
 	<div class="container">
 		<header>
 			<div class="row">
-				<img src="img/cadhaclogo.svg" alt="CADHAC"/>
-				<p>English</p>
-				<button>Dona</button>
+				<a href="#"><img src="img/cadhaclogo.svg" alt="CADHAC"/></a>
+				<a href="#">English</a>
+				<a href="#">Dona</a>
 			</div>
 			<div class="row">
 				<nav class="navbar navbar-expand-lg">
