@@ -5,18 +5,61 @@
 // @import "mixins";
 // @import "offset";
 
-$primary: #4967c2;
-$secondary: #01a551;
-$greey: #f3f3f3;
-$bordergray: #a0a0a0;
-$footerbg: #1b1d1f;
-
-// white
-// black
 *{
 	box-sizing: border-box;
 }
 
 body {
 	font-family: 'Segoe UI', sans-serif;
+}
+a{text-decoration: none;}
+img{max-width: 100%;}
+.ttu{text-transform: uppercase;}
+.tac{text-align: center;}
+
+/* Colors 
+---------------------------------- */
+$primary: #109347;
+$green2: #299751;
+$secondary: #74428f;
+$accent: #f4c80f;
+$grey: #777;
+$text: #777;
+$bordergray: #ccc;
+$darkgray: #2a2a2a;
+$footerbg: #1b1d1f;
+
+$colors: (
+	black: #000,
+	white: #fff,
+	text: $grey,
+	primary: $primary,
+	secondary: $secondary,
+	accent: $accent,
+	green2: $green2
+);
+
+@each $color in $colors{
+	.#{""+nth($color,1)}{
+		color: #{nth($color,2)};
+	}
+	a.#{""+nth($color,1)}:hover{ 
+		color: darken(nth($color,2),10%);
+	}
+	.bg-#{""+nth($color,1)}{
+		background-color: #{nth($color,2)};
+	}
+	a.bg-#{""+nth($color,1)}, button.bg-#{""+nth($color,1)}{
+		color: white;
+		&:hover{ background-color: darken(nth($color,2),10%); }
+	}
+}
+
+
+p{
+	color: $text;
+}
+h1, h2, h3, h4, h5, h6{
+	color: $primary;
+	margin: 0;
 }
