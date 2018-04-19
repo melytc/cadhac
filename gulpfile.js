@@ -10,7 +10,7 @@ var browserSync = require('browser-sync');
 var del = require('del');
 
 gulp.task('php', function() {
-	php.server({base: './build', port: 8010, keepalive: true});
+	php.server({base: 'build/', port: 8010, keepalive: true});
 });
 gulp.task('styles',function() {
 	// Compiles CSS
@@ -27,6 +27,10 @@ gulp.task('styles',function() {
 gulp.task('images',function(){
 	return gulp.src('./src/img/**')
 		.pipe(gulp.dest('./build/img/'));
+});
+gulp.task('staticss',function(){
+	return gulp.src('./src/css/*.css')
+		.pipe(gulp.dest('./build/css/'));
 });
 gulp.task('js',function(){
 	return gulp.src('./src/js/**')
@@ -73,8 +77,9 @@ gulp.task('browser-sync', ['php'], function() {
 		ghostMode: false
 	});
 });
-gulp.task('default', ['styles', 'images', 'html', 'js', 'browser-sync'], function(){
+gulp.task('default', ['styles', 'staticss', 'images', 'html', 'js', 'browser-sync'], function(){
 	gulp.watch("src/css/*.scss", ['styles']);
+	gulp.watch("src/css/*.css", ['staticss']);
 	gulp.watch("src/img/*", ['images']);
 	gulp.watch("src/js/*", ['js']);
 	gulp.watch("src/*.html", ['html']);

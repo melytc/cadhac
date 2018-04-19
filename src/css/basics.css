@@ -1,22 +1,20 @@
+
 body {
-	margin:0;	padding:0;
-	background:#0090D7;
+	margin:0;
+	padding:0;
+	font-family: 'Segoe UI', sans-serif;
+	border-top: 25px solid #f6f6f6;
 }
 body, a{
-	color: #fff;
+	color: #2a2a2a;
 	line-height: 120%;
-	font-family: "Aller", sans-serif;
 	font-size: 16px;
 }
-tbody tr:hover { background-color:rgba(0,0,0,.8); }
+tbody tr:hover { background-color:#0090D7; }
 tbody tr:hover a{	color: #fff; }
-th{ color: #444; background: #FFF; }
-h1, h2, h3{ color: #fff; }
+th{ color: #444; background: #FFF; text-align: left; padding: 20px 10px !important;}
+h1, h2, h3{ color: #2a2a2a; }
 
-.logo{
-	margin:20px 0;
-	display: block;
-}
 
 * {
 	-webkit-box-sizing: border-box;
@@ -29,26 +27,39 @@ h1, h2, h3{ color: #fff; }
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
+.logo{
+	width: 280px;
+
+	display: block;
+	svg {
+		width: 100px;
+		height: 100px;
+	}
+	path{
+		fill: #0090D7;
+	}
+	/*margin-right: 10px;*/
+}
+.container{
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 4%;
+}
 img {	border: none;	}
 .clearfix:after{ content: "."; display: block; height: 0; clear: both; visibility: hidden;}
 .clearfix {display: inline-block;}
 .clearfix {display: block;}
 a{ text-decoration:none; }
 header{	padding: 20px 0; }
-header article{ background:url(logo.gif) 95% center no-repeat; min-height: 110px; }
 header p{ display: table-cell; vertical-align: middle; padding-top: 20px; }
 h1, h2, h3, h4, p, span { padding-top:0;padding-bottom:0px;	margin-top:0;margin-bottom:30px; }
 h1, h1 a { font-size: 30px; }
 h2, h2 a { font-size: 25px; }
 h3, h3 a { font-size: 18px; }	
-article {
-	width: 90%;
-	padding: 0 20px;
-	text-align: left;
-	margin: 0 auto;
-}
 table{ border-spacing:0;  border-collapse:collapse; width: 100%; margin-bottom: 30px; }
 td, th{ vertical-align: middle; padding-right: 10px; padding-left: 10px; }
 th, td a{ padding-top: 10px; padding-bottom: 10px; }
-td{ border-top: 1px solid #FFF; }
+td{ border-top: 1px solid #ddd; }
 td a{ display: block; }
+td .glyphicon{ font-size: 20px; font-weight: normal; display: block; text-align: center; }
+.glyphicon-ok-circle{ color: #2DB200;}
