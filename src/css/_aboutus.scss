@@ -1,9 +1,20 @@
 .container {
 	margin-top: 35px;
-	section.acknowledgements {
+	margin-bottom: 15px;
+	.acknowledgements {
 		margin: 0px;
-		.big-photo {
-			padding: 0px;
+		padding: 0px;
+		.container>div:first-child{
+			padding-left: 30px;
 		}
+	}
+	.big-photo {
+		padding: 0px;
+	}
+	h2 {
+		margin-top: 20px;
+	}
+	p {
+		font-weight: 200;
 	}
 }

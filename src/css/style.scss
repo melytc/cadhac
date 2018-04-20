@@ -36,6 +36,7 @@ $bordergray: #ccc;
 $darkgray: #2a2a2a;
 $footerbg: #1b1d1f;
 $paleyellow: #e8eaa7;
+$darkblue: #212d4c;
 
 $colors: (
 	black: #000,
@@ -46,7 +47,8 @@ $colors: (
 	lightgreen: $lightgreen,
 	paleyellow: $paleyellow,
 	accent: $accent,
-	green2: $green2
+	green2: $green2,
+	darkblue: $darkblue
 );
 
 @each $color in $colors{
@@ -73,6 +75,9 @@ h1, h2, h3, h4, h5, h6{
 	color: $primary;
 	margin: 0;
 	font-weight: 700;
+}
+h2 {
+	font-weight: 600;
 }
 .btn {
 	border-radius: 0;

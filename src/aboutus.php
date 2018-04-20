@@ -18,11 +18,16 @@
 </div>
 
 <section class="acknowledgements">
-	<div class="container row">
+	<div class="container row bg-darkblue">
 		<img class="col-5 big-photo" src="img/hmnaConsuelo.jpg"></img>
 		<div class="col-7">
-			<h2 >La Hna. Consuelo Morales</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit veniam voluptate sit, molestias omnis expedita sed, eius animi hic eveniet minima fuga deserunt doloremque nesciunt! Nam temporibus voluptatem maxime quae ea hic, minus nulla? Tempora ut accusantium, molestias asperiores aliquam numquam odit error obcaecati nostrum voluptates ullam repellat alias quibusdam voluptatem, blanditiis nihil sed harum nulla temporibus laborum. Nobis dignissimos non beatae in corrupti. Ullam maxime eligendi accusantium illo reiciendis maiores dignissimos sit dolorem ipsa.</p>
+			<h2 class="text-white">La Hna. Consuelo Morales</h2>
+			<p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit veniam voluptate sit, molestias omnis expedita sed, eius animi hic eveniet minima fuga deserunt doloremque nesciunt! Nam temporibus voluptatem maxime quae ea hic, minus nulla? Tempora ut accusantium, molestias asperiores aliquam numquam odit error obcaecati nostrum voluptates ullam repellat alias quibusdam voluptatem, blanditiis nihil sed harum nulla temporibus laborum. Nobis dignissimos non beatae in corrupti. Ullam maxime eligendi accusantium illo reiciendis maiores dignissimos sit dolorem ipsa.</p>
+
+			<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt architecto officiis dolores dicta minima expedita necessitatibus fugit omnis voluptatibus sapiente, labore, officia deleniti deserunt sed quasi temporibus. Saepe, quos obcaecati.</p>
+
+			<p class="text-white">Escucha su TED talk <a href="https://www.youtube.com/watch?v=rLRH5EVGBVg">aquí</a>.
+			</p>
 		</div>
 	</div>
 	<div class="container row">
