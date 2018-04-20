@@ -1,0 +1,33 @@
+/* Comunicados - Detalles
+------------------------------------------ */
+.news {
+	.entry {
+		img {
+			display: block;
+			width: 600px;
+		}
+		hr{
+			margin: 50px 0 35px;
+		}
+		p.date {
+			font-size: 14px;
+			letter-spacing: .1rem;
+			margin-bottom: 10px;
+		}
+		h3.title {
+			font-weight: 600;
+			color: $darkgray;
+			font-size: 24px;
+			margin-bottom: 20px;
+		}
+		p.body {
+			font-size: 16px;
+			margin-bottom: 40px;
+		}
+	}
+	.more-news{
+	}
+	img.preview {
+		width: 100px;
+	}
+}
