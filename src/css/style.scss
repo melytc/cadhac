@@ -152,8 +152,12 @@ nav.navbar {
 		background: rgba(0,0,0,.3);
 	}
 }
+.content h1 {
+	font-weight: 600;
+}
 
 @import "aboutus";
 @import "donaciones";
 @import "publicaciones";
 @import "comunicados";
+@import "contact";
