@@ -31,8 +31,8 @@
 					<?php endfor; ?>
 				</div>
 				<div class="row popular btn-group" role="group">
-					<button type="button" class="btn bg-secondary">Lo m&aacute;s visto</button>
-					<button type="button" class="btn bg-secondary">Lo m&aacute;s compartido</button>
+					<button type="button" class="btn bg-grey active">Lo m&aacute;s visto</button>
+					<button type="button" class="btn bg-grey">Lo m&aacute;s compartido</button>
 					<?php for($i = 0; $i < 5; $i++): ?>
 						<div class="row align-items-center news-preview">
 							<img src="img/news-preview.jpg" alt="" class="preview col">
