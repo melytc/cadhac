@@ -1,20 +1,105 @@
-.container {
-	margin-top: 35px;
-	margin-bottom: 15px;
+
+.aboutus.content {
+	.banner{
+		padding: 15% 0;
+		&.bg-black-alpha:before {
+			background: rgba(0,0,0,.5);
+		}
+		h1 {
+			font-size: 3.5rem;
+		}
+	}
 	.acknowledgements {
 		margin: 0px;
 		padding: 0px;
-		.container>div:first-child{
-			padding-left: 30px;
-		}
+	}
+	.bg-darkblue {
+		background-color: $darkblue;
+		*{color: #fff;}
 	}
 	.big-photo {
 		padding: 0px;
 	}
-	h2 {
-		margin-top: 20px;
+	.row.nog > div{
+		padding: 0;
 	}
-	p {
-		font-weight: 200;
+	.recs, .semblanza {
+		padding: 6%;
+		h2 {
+			margin-bottom: 30px;
+		}
+	}
+	.semblanza{
+		padding: 8%;
+		p {line-height: 180%;}
+	}
+	.recs {
+		background-color: #efefef;
+		border-top: 4px solid $lightgreen;
+	}
+	.awards-list {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		display: block;
+		.award {
+			margin-bottom: 20px;
+			.title {
+				font-weight: 700;
+				font-size: 1.2rem;
+			}
+			.col-md-11 {
+				padding-top: 5px;
+			}
+			a, a:hover {
+				text-decoration: underline dotted #444;
+				color: #444;
+			}
+			a:hover {
+				text-decoration: none;
+			}
+			.desc {
+				display: none;
+			}
+			&.active .desc {
+				display: block;
+				margin-bottom: 0;
+			}
+			&.active .title {
+				font-size: 1.5rem;
+			}
+			.circle {
+				width: 40px;
+				height: 40px;
+				display: inline-block;
+				float: left;
+				margin-right: 20px;
+				background: $lightgreen;
+				border-radius: 50%;
+				border: 5px solid #fff;
+				position: relative;
+				left: 5px;
+			}
+			&.active .circle {
+				background: $green2;
+				width: 50px;
+				height: 50px;
+				left: 0;
+			}
+		}
+	}
+	.one .desc {
+		padding: 0 0 6%;
+		line-height: 200%;
+		h2{
+			margin-bottom: 20px;
+		}
+		p{
+			font-size: 1.2rem;
+		}
+		&.first {
+			padding-bottom: 0;
+			padding-top: 6%;
+		}
 	}
 }
