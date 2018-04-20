@@ -36,6 +36,7 @@ $bordergray: #ccc;
 $darkgray: #2a2a2a;
 $footerbg: #1b1d1f;
 $paleyellow: #e8eaa7;
+$darkblue: #212d4c;
 
 $colors: (
 	black: #000,
@@ -46,7 +47,7 @@ $colors: (
 	lightgreen: $lightgreen,
 	paleyellow: $paleyellow,
 	accent: $accent,
-	green2: $green2
+	green2: $green2,
 );
 
 @each $color in $colors{
@@ -73,6 +74,9 @@ h1, h2, h3, h4, h5, h6{
 	color: $primary;
 	margin: 0;
 	font-weight: 700;
+}
+h2 {
+	font-weight: 600;
 }
 .btn {
 	border-radius: 0;
@@ -116,6 +120,13 @@ header.main {
 			color: $secondary;
 		}
 	}
+	.logo {
+		display: block;
+		width: 260px;
+		img {
+			display: block;
+		}
+	}
 }
 nav.navbar {
 	padding-top: 0;
@@ -152,8 +163,13 @@ nav.navbar {
 		background: rgba(0,0,0,.3);
 	}
 }
+.content h1 {
+	font-weight: 600;
+}
 
 @import "aboutus";
 @import "donaciones";
 @import "publicaciones";
 @import "comunicados-detalles";
+@import "comunicados";
+@import "contact";

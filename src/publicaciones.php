@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
 <div class="publicaciones content">
-	<section class="banner img-bg bg-black-alpha">
+	<section class="banner img-bg bg-black-alpha" data-bg="img/testbg.png">
 		<div class="container">
 			<h2>Informe de desaparici&oacute;n forzada en Nuevo Le&oacute;n 2018</h2>
 			<a href="#" class="btn bg-purple2">Descarga el reporte</a>
