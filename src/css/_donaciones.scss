@@ -1,0 +1,76 @@
+/* Donaciones
+------------------------------------------ */
+.donaciones {
+	.smaller-container {
+		width: 80%;
+		margin: 0 auto;
+	}
+	.lh120p {
+		line-height: 180%;
+	}
+	.donation-widget {
+		width: 70%;
+		margin: 0 auto;
+		padding: 6% 0;
+		.row {
+			margin-bottom: 30px;
+		}
+		.option-select {
+			border: 1px solid #ccc;
+			color: #444;
+			font-size: 28px;
+			font-weight: 700;
+			&.lgray {
+				color: #999;
+			}
+			&:hover {
+				background-color: lighten(desaturate($secondary, 10%), 5%);
+				color: #fff;
+			}
+			&.active {
+				background-color: $lightgreen;
+				color: #fff;
+			}
+		}
+		.submit-btn {
+			padding: 12px 0;
+			font-size: 1.6rem;
+			letter-spacing: .1rem;
+		}
+		.paypal-logo {
+			width: 200px;
+			margin: 0 auto;
+		}
+	}
+	.account-block {
+		background-color: #eff4f0;
+		border-bottom: 2px solid $lightgreen;
+		padding:  8% 10%;
+		h2.title {
+			font-size: 20px;
+			font-weight: 600;
+			text-transform: uppercase;
+			letter-spacing: .15rem;
+			margin-bottom: 20px;
+		}
+		p.name {
+			margin: 0;
+			color: #454746;
+			font-weight: 700;
+		}
+	}
+	#video {
+		position: relative;
+		padding-bottom: 40.93%;
+		height: 0;
+		overflow: hidden;
+		margin-bottom: 6%;
+		iframe {
+			position: absolute;
+			top: -20%;
+			left: -2%;
+			width: 105%;
+			height: 140%;
+		}
+	}
+}

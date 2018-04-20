@@ -17,6 +17,7 @@ a{text-decoration: none;}
 img{max-width: 100%;}
 .ttu{text-transform: uppercase;}
 .tac{text-align: center;}
+.tar{text-align: right;}
 
 /* Colors 
 ---------------------------------- */
@@ -52,21 +53,22 @@ $colors: (
 		color: darken(nth($color,2),10%);
 	}
 	.bg-#{""+nth($color,1)}{
-		background-color: #{nth($color,2)};
+		background-color: #{nth($color,2)} !important;
 	}
 	a.bg-#{""+nth($color,1)}, button.bg-#{""+nth($color,1)}{
 		color: white;
-		&:hover{ background-color: darken(nth($color,2),10%); }
+		&:hover, &:focus{ background-color: darken(nth($color,2),10%) !important; }
 	}
 }
 
 
-p{
-	color: $text;
-}
+p{color: $text; }
+strong {font-weight: 700; }
+small{font-size: 12px;}
 h1, h2, h3, h4, h5, h6{
 	color: $primary;
 	margin: 0;
+	font-weight: 700;
 }
 .btn{
 	border-radius: 0;
@@ -74,9 +76,15 @@ h1, h2, h3, h4, h5, h6{
 	font-weight: 600;
 	padding: 8px 35px;
 }
+.sep {
+	letter-spacing: .1rem;
+}
+.content {
+	margin-bottom: 6%;
+}
 /* Header
 ------------------------ */
-header.main{
+header.main {
 	margin-top: 30px;
 	a.language{
 		color: $text;
@@ -109,3 +117,4 @@ nav.navbar {
 }
 
 @import "aboutus";
+@import "donaciones";

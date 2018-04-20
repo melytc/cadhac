@@ -1,38 +1,55 @@
 <?php include 'header.php'; ?>
-<div class="donaciones">
+<div class="donaciones content">
 	<section class="banner video-banner">
-		<h1 style="font-size: 8em;">BANNER VIDEO</h1>
-		<h1>Dona</h1>
+		<div id="video">
+			<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/zUgK-Bp6xL0?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1" frameborder="0" allow="autoplay; encrypted-media"></iframe>
+		</div>
 	</section>
 	<div class="container">
 		<div class="smaller-container">
-			<h2>Necesitamos tu apoyo</h2>
-			<p>Tu donativo nos permite mantener nuestra labor a favor de las v&iacute;ctimas de violaciones a los derechos humanos. Gracias a tu apoyo podemos brindar apoyo legal, psicol&oacute;gico y social a madres, padres, hijas, hijos, hermanas y hermanos que sufren por la desaparici&oacute;n, detenci&oacute;n arbitraria, encarcelamiento u otros tipos de violaciones de derechos humanos.</p>
-
-			<section class="donation-widget">
-				<p class="tar ttu">Montos expresados en MXN</p>
-				<div class="row no-gutters">
-					<div class="col">
-						<a href="#" class="btn option-select">Donaci&oacute;n mensual</a>
-					</div>
-					<div class="col">
-						<a href="#" class="btn option-select">Una sola vez</a>
+			<div class="row">
+				<div class="col-md-6">
+					<h2 class="mb-3">Necesitamos tu apoyo.</h2>
+					<p class="lh120p">Tu donativo nos permite mantener nuestra labor a favor de las v&iacute;ctimas de violaciones a los derechos humanos. Gracias a tu apoyo podemos brindar apoyo legal, psicol&oacute;gico y social a madres, padres, hijas, hijos, hermanas y hermanos que sufren por la desaparici&oacute;n, detenci&oacute;n arbitraria, encarcelamiento u otros tipos de violaciones de derechos humanos.</p>
+				</div>
+				<div class="col-md-5 offset-md-1">
+					<div class="account-block">
+						<h2 class="lightgreen title">Cuenta bancaria</h2>
+						<p class="name">Ciudadanos en Apoyo a los Derechos Humanos, A.C.</p>
+						<p>
+							Banregio <br>
+							<strong>No. de cuenta: </strong> 3210932803 <br>
+							<strong>CLABE: </strong> 058580130056000195
+						</p>
+						<a href="#" class="gold"><small>Obt&eacute;n tu recibo de donativos aqu&iacute;</small></a>
 					</div>
 				</div>
+			</div>
+			<section class="donation-widget">
+				<p class="tar ttu sep"><small>Montos expresados en MXN</small></p>
+				<div class="row no-gutters">
+					<div class="col">
+						<a href="#" class="btn active option-select lgray">Donaci&oacute;n mensual</a>
+					</div>
+					<div class="col">
+						<a href="#" class="btn option-select lgray">Una sola vez</a>
+					</div>
+				</div>
+
 				<div class="row no-gutters">
 					<div class="col"><a href="#" class="btn option-select">$100</a></div>
-					<div class="col"><a href="#" class="btn option-select">$200</a></div>
+					<div class="col"><a href="#" class="btn option-select active">$200</a></div>
 					<div class="col"><a href="#" class="btn option-select">$500</a></div>
 					<div class="col"><a href="#" class="btn option-select">$1,000</a></div>
 					<div class="col"><a href="#" class="btn option-select">Otro</a></div>
 				</div>
 				<div class="row no-gutters">
-					<div class="col"><a href="#" class="btn submit-btn ttu">Donar</a></div>
+					<div class="col"><a href="#" class="btn bg-primary submit-btn ttu">Donar</a></div>
 				</div>
 				<div class="row">
 					<div class="col-md-6 offset-md-3 tac">
-						<p class="small ttu">Donaciones via</p>
-						<img src="img/paypal.svg" alt="PayPal">
+						<p class="ttu sep"><small>Donaciones via</small></p>
+						<img src="img/paypal.svg" alt="PayPal" class="paypal-logo">
 					</div>
 				</div>
 			</section>
