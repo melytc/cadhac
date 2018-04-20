@@ -1,8 +1,9 @@
-.logo {
-	display: block;
-	width: 260px;
-	img {
-		display: block;
-
+.container {
+	margin-top: 35px;
+	section.acknowledgements {
+		margin: 0px;
+		.big-photo {
+			padding: 0px;
+		}
 	}
 }

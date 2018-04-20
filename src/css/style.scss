@@ -116,6 +116,13 @@ header.main {
 			color: $secondary;
 		}
 	}
+	.logo {
+		display: block;
+		width: 260px;
+		img {
+			display: block;
+		}
+	}
 }
 nav.navbar {
 	padding-top: 0;
