@@ -42,7 +42,7 @@
 								<a class="nav-item nav-link ttu" href="#">Sobre nosostros</a>
 								<a class="nav-item nav-link ttu" href="#">Qu&eacute; hacemos</a>
 								<a class="nav-item nav-link ttu" href="#">Comunicados</a>
-								<a class="nav-item nav-link ttu" href="#">Publicados</a>
+								<a class="nav-item nav-link ttu" href="#">Publicaciones</a>
 								<a class="nav-item nav-link ttu" href="#">Desaparecidos</a>
 								<a class="nav-item nav-link ttu" href="#">Contacto</a>
 							</div>
@@ -52,3 +52,4 @@
 			</div>
 		</section>
 	</header>
+	

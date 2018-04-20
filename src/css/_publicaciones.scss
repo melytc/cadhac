@@ -1,0 +1,66 @@
+/* Publicaciones
+------------------------------------------ */
+
+$purple2: #6b3e98;
+
+.publicaciones {
+	.banner {
+		background-image: url(../img/testbg.png);
+		margin-bottom: 4%;
+		.btn {
+			background-color: $purple2;
+			color: white;
+			display: inline-block;
+			font-size: 1.2rem;
+			font-weight: 600;
+			padding: 1.2rem 2.5rem;
+			&:hover, &:focus {
+				background-color: darken($purple2, 10%);
+			}
+		}
+		.container {
+			padding: 5% 2%;
+		}
+		h2 {
+			color: white;
+			font-family: 'Source Serif Pro', serif;
+			font-size: 3rem;
+			font-weight: 700;
+			width: 40%;
+			margin: 20px 0 40px;
+		}
+	}
+	h1 {
+		color: #444;
+		font-weight: 300;
+		margin-bottom: 70px;
+		font-size: 3rem;
+	}
+	.download-report.btn {
+		border: 0 none;
+		text-transform: uppercase;
+		width: 250px;
+		height: 50px;
+		line-height: 2.2rem;
+		margin-top: 20px;
+	}
+	.publication {
+		hr{
+			margin: 50px 0 35px;
+		}
+		p.date {
+			font-size: 14px;
+			letter-spacing: .1rem;
+		}
+		h3.title {
+			font-weight: 600;
+			color: $darkgray;
+			font-size: 24px;
+			margin-bottom: 20px;
+		}
+		p.extract {
+			font-size: 16px;
+			margin-bottom: 40px;
+		}
+	}
+}

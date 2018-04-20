@@ -1,5 +1,9 @@
-/*
-	Author: CADHAC
+/*!
+	Theme Name: CADHAC
+	Author: Melissa Treviño
+	Author URI: https://github.com/melytc
+	Version: 1.0.0
+	License: GNU General Public License v2 or later
 */
 
 // @import "mixins";
@@ -70,7 +74,7 @@ h1, h2, h3, h4, h5, h6{
 	margin: 0;
 	font-weight: 700;
 }
-.btn{
+.btn {
 	border-radius: 0;
 	display: block;
 	font-weight: 600;
@@ -81,6 +85,10 @@ h1, h2, h3, h4, h5, h6{
 }
 .content {
 	margin-bottom: 6%;
+}
+.smaller-container {
+	width: 80%;
+	margin: 0 auto;
 }
 /* Header
 ------------------------ */
@@ -116,5 +124,35 @@ nav.navbar {
 	top: -1px;
 }
 
+@mixin bgsize($size){
+	-webkit-background-size: $size; 
+	-moz-background-size: $size; 
+	-o-background-size: $size; 
+	-ms-background-size: $size; 
+	background-size: $size;
+}
+.img-bg { 
+	@include bgsize(cover);
+	background-repeat: no-repeat;
+	background-position: center top;
+	position: relative;
+	padding: 5% 0;
+	.container {
+		position: relative;
+		z-index: 100;
+	}
+	&:before {
+		content: '';
+		position: absolute;
+		left: 0; right: 0;
+		top: 0; bottom: 0;
+		z-index: 0;
+	}
+	&.bg-black-alpha:before {
+		background: rgba(0,0,0,.3);
+	}
+}
+
 @import "aboutus";
 @import "donaciones";
+@import "publicaciones";
