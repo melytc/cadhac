@@ -22,6 +22,7 @@ img{max-width: 100%;}
 .ttu{text-transform: uppercase;}
 .tac{text-align: center;}
 .tar{text-align: right;}
+.flight {font-weight: 300;}
 
 /* Colors 
 ---------------------------------- */
@@ -165,6 +166,28 @@ nav.navbar {
 }
 .content h1 {
 	font-weight: 600;
+}
+/* Footer
+---------------------------------- */
+section.unete {
+	.bg-primary *{
+		color: #fff;
+	}
+	.padthis{
+		padding: 9% 8%;
+	}
+	h2 {
+		margin-bottom: 20px;
+	}
+	p{
+		margin-bottom: 40px;
+	}
+	a.btn.donate-link {
+		display: inline-block;
+		padding: .8rem 2.8rem;
+		font-size: 1.5rem;
+		letter-spacing: .1rem;
+	}
 }
 
 @import "aboutus";
