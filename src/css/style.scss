@@ -95,6 +95,10 @@ h2 {
 	width: 80%;
 	margin: 0 auto;
 }
+.container-w90p {
+	width: 90%;
+	margin: 0 auto;
+}
 /* Header
 ------------------------ */
 header.main {
@@ -116,6 +120,7 @@ header.main {
 		padding: 15px 1rem 10px;
 		margin: 0;
 		font-weight: 600;
+		transition: all 300ms;
 		&.active, &:hover {
 			border-top: 1px solid $secondary;
 			color: $secondary;
@@ -161,7 +166,7 @@ nav.navbar {
 		z-index: 0;
 	}
 	&.bg-black-alpha:before {
-		background: rgba(0,0,0,.3);
+		background: rgba(0,0,0,.5);
 	}
 }
 .content h1 {
@@ -196,3 +201,4 @@ section.unete {
 @import "comunicados-detalles";
 @import "comunicados";
 @import "contact";
+@import "desaparecidos";
