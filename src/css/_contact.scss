@@ -1,0 +1,28 @@
+.contact.content {
+	margin: 0 0 8%;
+	.smaller-container {
+		margin-top: 4%;
+	}
+	h1 {
+		margin-bottom: 3%;
+	}
+	.contact-form {
+		.form-control {
+			border-radius: 0;
+			height: 50px;
+		}
+		textarea.form-control {
+			resize: none;
+			height: 200px;
+			margin-bottom: 30px;
+		}
+		button.submit.btn {
+			height: 50px !important;
+		}
+	}
+	.sidebar {
+		background-color: #eff4f0;
+		border-bottom: 2px solid $lightgreen;
+		padding:  8% 10%;
+	}
+}
