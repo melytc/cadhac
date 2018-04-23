@@ -1,30 +1,30 @@
 <?php include 'header.php' ?>
 <div class="content home">
-	<section class="banner img-bg bg-black-alpha" data-bg="img/pexels.jpg">
+	<section class="banner img-bg bg-purple-alpha" data-bg="img/banner1.jpg">
 		<div class="container">
-			<h1>BANNER GOES HERE</h1>
+			<h1 class="tac" style="width: 60%; margin: 0 auto;">&iexcl;Celebra con nosotros nuestro 25 Aniversario!</h1>
 		</div>
 	</section>
 	<section class="one">
 		<div class="container">
-			<h2 class="title tac">En CADHAC, transformamos vidas</h2>
+			<h2 class="title tac">En CADHAC, defendemos los Derechos Humanos</h2>
 			<div class="smaller-container secondary">
 				<div class="row">
 					<div class="col">
 						<a href="#"><i class="ico">
-							<img src="img/tmpicon.svg" alt="TmpIcon">
+							<img src="img/icon2.svg" alt="TmpIcon">
 						</i></a>
-						<a href="#" class="label">Justicia Social</a>
+						<a href="#" class="label">Seguridad</a>
 					</div>
 					<div class="col">
 						<a href="#"><i class="ico">
-							<img src="img/tmpicon.svg" alt="TmpIcon">
+							<img src="img/icon4.svg" alt="TmpIcon">
 						</i></a>
-						<a href="#" class="label">Atenci&oacute;n a familiares</a>
+						<a href="#" class="label">Derechos Humanos</a>
 					</div>
 					<div class="col">
 						<a href="#"><i class="ico">
-							<img src="img/tmpicon.svg" alt="TmpIcon">
+							<img src="img/icon5.svg" alt="TmpIcon">
 						</i></a>
 						<a href="#" class="label">B&uacute;squeda de personas</a>
 					</div>
@@ -34,19 +34,19 @@
 						<a href="#"><i class="ico">
 							<img src="img/tmpicon.svg" alt="TmpIcon">
 						</i></a>
-						<a href="#" class="label">Justicia Social</a>
+						<a href="#" class="label">Acompa&ntilde;amiento a familiares</a>
 					</div>
 					<div class="col">
 						<a href="#"><i class="ico">
-							<img src="img/tmpicon.svg" alt="TmpIcon">
+							<img src="img/icon1.svg" alt="TmpIcon">
 						</i></a>
-						<a href="#" class="label">Atenci&oacute;n a familiares</a>
+						<a href="#" class="label">Asesor&iacute;a Jur&iacute;dica</a>
 					</div>
 					<div class="col">
 						<a href="#"><i class="ico">
-							<img src="img/tmpicon.svg" alt="TmpIcon">
+							<img src="img/icon3.svg" alt="TmpIcon">
 						</i></a>
-						<a href="#" class="label">B&uacute;squeda de personas</a>
+						<a href="#" class="label">Penitenciario</a>
 					</div>
 				</div>
 			</div>
