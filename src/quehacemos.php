@@ -102,11 +102,11 @@
 				<div class="col-md-5 order-1 photo-grid">
 					<div class="row" style="height: 50%;">
 						<div class="col img-bg" data-bg="img/quehacemos/promocionydefensa.jpg"></div>
-						<div class="col img-bg" data-bg="img/pexels.jpg"></div>
+						<div class="col img-bg" data-bg="img/quehacemos/monitoreo.jpg"></div>
 					</div>
 					<div class="row" style="height: 50%;">
-						<div class="col img-bg" data-bg="img/pexels.jpg"></div>
-						<div class="col img-bg" data-bg="img/pexels.jpg"></div>
+						<div class="col img-bg" data-bg="img/quehacemos/sanAngel.jpg"></div>
+						<div class="col img-bg" data-bg="img/quehacemos/juridico.jpg"></div>
 					</div>
 					<div class="overlay-bg bg-secondary"></div>
 				</div>
