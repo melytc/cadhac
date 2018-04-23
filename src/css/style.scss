@@ -168,6 +168,9 @@ nav.navbar {
 	&.bg-black-alpha:before {
 		background: rgba(0,0,0,.5);
 	}
+	&.bg-purple-alpha:before {
+		background: rgba($secondary,.8);
+	}
 }
 .content h1 {
 	font-weight: 600;
@@ -194,7 +197,13 @@ section.unete {
 		letter-spacing: .1rem;
 	}
 }
-
+.banner *{
+	color: white;
+}
+.banner h1 {
+	font-size: 3.5rem;
+	font-weight: 800;
+}
 @import "aboutus";
 @import "donaciones";
 @import "publicaciones";
@@ -202,3 +211,4 @@ section.unete {
 @import "comunicados";
 @import "contact";
 @import "desaparecidos";
+@import "quehacemos";
