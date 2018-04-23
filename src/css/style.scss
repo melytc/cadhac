@@ -135,6 +135,7 @@ header.main {
 	}
 }
 nav.navbar {
+	width: 100%;
 	padding-top: 0;
 	padding-bottom: 0;
 	position: relative;
@@ -215,10 +216,10 @@ section.contacto {
 		width: 260px;
 	}
 	.social-media {
-		display: block;
+		// display: block;
 		img {display: block; }
-		margin-bottom: 60px;
 		width: 30px;
+		margin: 0 10px 60px;
 		opacity: .5;
 	}
 	p{
@@ -226,7 +227,7 @@ section.contacto {
 		font-size: 11px;
 		color: $text;
 	}
-	.col-9 a {
+	a {
 		color: #444;
 	}
 	p.dir {

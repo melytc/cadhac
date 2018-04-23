@@ -18,12 +18,16 @@
 	<section class="contacto">
 		<div class="container">
 			<div class="row">
-				<div class="col-9">
+				<div class="col-md-9">
 					<h1>Recibe nuestras actualizaciones sobre derechos humanos y CADHAC.</h1>
-					<div class="input-group mb-5 w-50">
-						<input type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" placeholder="Correo electr&oacute;nico">
-						<div class="input-group-append">
-							<button class="btn bg-lightgreen" type="button">Suscribirse</button>
+					<div class="row">
+						<div class="col-xl-6 col-sm-12">
+							<div class="input-group mb-5">
+								<input type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" placeholder="Correo electr&oacute;nico">
+								<div class="input-group-append">
+									<button class="btn bg-lightgreen" type="button">Suscribirse</button>
+								</div>
+							</div>
 						</div>
 					</div>
 		
@@ -32,19 +36,13 @@
 					<p class="dir"><span style="font-weight: 600;">Ciudadanos en Apoyo a los Derechos Humanos A.C.</span> | Vancouver 156, Col. Vista Hermosa, Monterrey NL M&eacute;xico | (81) 83435058</p>
 				</div>
 	
-				<div class="col mt-5">
-					<div class="row justify-content-end">
-						<div class="col-sm-2">
-							<a class="social-media" href="https://www.facebook.com/cadhac/"><img src="img/facebook-logo.svg" alt="Facebook"/></a>
-						</div>
-						<div class="col-sm-2">
-							<a class="social-media" href="https://twitter.com/cadhac"><img src="img/twitter-logo.svg" alt="Twitter"/></a>
-						</div>
-						<div class="col-sm-2">
-							<a class="social-media" href="https://www.youtube.com/user/CADHAC/featured"><img src="img/youtube-logo.svg" alt="YouTube"/></a>
-						</div>
+				<div class="col-md-3 mt-5">
+					<div class="row justify-content-center justify-content-xl-end">
+						<a class="social-media" href="https://www.facebook.com/cadhac/"><img src="img/facebook-logo.svg" alt="Facebook"/></a>
+						<a class="social-media" href="https://twitter.com/cadhac"><img src="img/twitter-logo.svg" alt="Twitter"/></a>
+						<a class="social-media" href="https://www.youtube.com/user/CADHAC/featured"><img src="img/youtube-logo.svg" alt="YouTube"/></a>
 					</div>
-					<div class="row justify-content-end">
+					<div class="row justify-content-center justify-content-xl-end">
 						<a class="logo" id="bottomlogo" href="#"><img src="img/cadhaclogo.svg" alt="CADHAC"/></a>
 					</div>
 				</div>
