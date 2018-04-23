@@ -1,21 +1,21 @@
 <footer>
 	<?php if(!strpos($_SERVER['SCRIPT_FILENAME'], 'donaciones')): ?>
-	<section class="unete">
-		<div class="container-fluid nospace">
-			<div class="row">
-				<div class="col-md-5 img-bg d-sm-none d-md-block" data-bg="img/unete.jpg">
-				</div>
-				<div class="col-md-7 bg-primary">
-					<div class="padthis">
-						<h2 class="flight">&Uacute;nete</h2>
-						<p class="light">Nuestra misi&oacute;n es favorecer una cultura de respeto a los Derechos Humanos de todas las personas en el estado de Nuevo Le&oacute;n, sin discriminaci&oacute;n alguna.</p>
-						<p class="light">Ay&uacute;danos a cumplirla: invol&uacute;crate, s&eacute; voluntario, o convi&eacute;rtete en donante.</p>
-						<a href="#" class="btn bg-lightgreen btn-lg ttu donate-link"><strong>Dona</strong></a>
+		<section class="unete">
+			<div class="container-fluid nospace">
+				<div class="row">
+					<div class="col-md-5 img-bg d-sm-none d-md-block" data-bg="img/unete.jpg">
+					</div>
+					<div class="col-md-7 bg-primary">
+						<div class="padthis">
+							<h2 class="flight">&Uacute;nete</h2>
+							<p class="light">Nuestra misi&oacute;n es favorecer una cultura de respeto a los Derechos Humanos de todas las personas en el estado de Nuevo Le&oacute;n, sin discriminaci&oacute;n alguna.</p>
+							<p class="light">Ay&uacute;danos a cumplirla: invol&uacute;crate, s&eacute; voluntario, o convi&eacute;rtete en donante.</p>
+							<a href="donaciones.php" class="btn bg-lightgreen btn-lg ttu donate-link"><strong>Dona</strong></a>
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-	</section>
+		</section>
 	<?php endif; ?>
 	
 	<section class="contacto">

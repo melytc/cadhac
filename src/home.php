@@ -52,7 +52,7 @@
 			</div>
 		</div>
 	</section>
-	<section class="two noticias">
+	<section class="two noticias d-none">
 		<h2 class="tac">Noticias</h2>
 		<div class="container newsgrid">
 			<?php for($i = 0; $i < 2; $i++): ?>

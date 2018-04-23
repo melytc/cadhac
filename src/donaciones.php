@@ -21,7 +21,7 @@
 							<strong>No. de cuenta: </strong> 3210932803 <br>
 							<strong>CLABE: </strong> 058580130056000195
 						</p>
-						<a href="#" class="gold"><small>Obt&eacute;n tu recibo de donativos aqu&iacute;</small></a>
+						<a href="https://docs.google.com/a/cadhac.org/forms/d/1mP3OVotsm5IroAiIYx4HkTTwsfjWoEQ3d8H8CEJZkvA/viewform" target="_blank" class="gold"><small>Obt&eacute;n tu recibo de donativos aqu&iacute;</small></a>
 					</div>
 				</div>
 			</div>
