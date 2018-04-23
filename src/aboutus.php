@@ -34,7 +34,7 @@
 				<div class="col-7">
 					<div class="semblanza">
 						<h2>Hermana Consuelo Morales</h2>
-						<p>Consuelo Gloria Morales Elizondo (Monterrey, Nuevo L&eacute;on; marzo de 1949) es una activista mexicana, fundadora y directora de la organizaci&oacute;n Ciudadanos en Apoyo a los Derechos Humanos, A.C. Su labor como defensora de las v&iactue;ctimas de los Derechos Humanos ha sido reconocida por diversas instituciones nacionales e internacionales como el Premio Nacional de Derechos Humanos de la Comisi&oacute;n Nacional de Derechos Humanos y el premio Alison Des Forges por Activismo Extraordinario de Human Rights Watch.</p>
+						<p>Consuelo Gloria Morales Elizondo (Monterrey, Nuevo L&eacute;on; marzo de 1949) es una activista mexicana, fundadora y directora de la organizaci&oacute;n Ciudadanos en Apoyo a los Derechos Humanos, A.C. Su labor como defensora de las v&iacute;ctimas de los Derechos Humanos ha sido reconocida por diversas instituciones nacionales e internacionales como el Premio Nacional de Derechos Humanos de la Comisi&oacute;n Nacional de Derechos Humanos y el premio Alison Des Forges por Activismo Extraordinario de Human Rights Watch.</p>
 						
 						<p>Tras a&ntilde;os de trabajo con comunidades ind&iacute;genas en Veracruz y ni&ntilde;os de la calle en la Ciudad de M&eacute;xico, la hermana Consuelo regresa a su ciudad natal y encuentra una comunidad plagada de abusos pero sin la protecci&oacute;n de alguna organizaci&oacute;n de Derechos Humanos.​ En 1993 forma parte del equipo fundador de la asociaci&oacute;n Ciudadanos en Apoyo de Derechos Humanos, para subsanar este vac&iacute;o y es su directora desde entonces.</p>
 						
@@ -70,7 +70,6 @@
 								<div class="row">
 									<div class="col-md-1">
 										<a href="#"><span class="circle"></span></a>
-										
 									</div>
 									<div class="col-md-11">
 										<a href="#" class="title">2015 - Premio "Gilberto Bosques"</a>
@@ -82,7 +81,6 @@
 								<div class="row">
 									<div class="col-md-1">
 										<a href="#"><span class="circle"></span></a>
-										
 									</div>
 									<div class="col-md-11">
 										<a href="#" class="title">2014 - Medalla al M&eacute;rito C&iacute;vico</a>
@@ -94,7 +92,6 @@
 								<div class="row">
 									<div class="col-md-1">
 										<a href="#"><span class="circle"></span></a>
-										
 									</div>
 									<div class="col-md-11">
 										<a href="#" class="title">2014 - Reconocimiento del Movimeinto por la Paz con Justicia y Dignidad</a>
@@ -122,7 +119,7 @@
 									</div>
 									<div class="col-md-11">
 										<a href="#" class="title">2012 - Premio Alison Des Forges</a>
-										<p class="desc">La Hna. Consuelo recibe el premio Alison Des Forges por Activismo Extraordinario, el m&aacute;s alto honor que otroga la organizaci&ooacute;n internacional Human Rights Watch.</p>
+										<p class="desc">La Hna. Consuelo recibe el premio Alison Des Forges por Activismo Extraordinario, el m&aacute;s alto honor que otroga la organizaci&oacute;n internacional Human Rights Watch.</p>
 									</div>
 								</div>
 							</li>
