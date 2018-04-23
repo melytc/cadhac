@@ -178,31 +178,31 @@ nav.navbar {
 /* Footer
 ---------------------------------- */
 section.unete {
-	.bg-primary *{
-		color: #fff;
+	padding: 4% 8%;
+	background-color: #f6f6f6;
+	h1 {
+		margin-bottom: 25px;
+		color: $darkgray;
+		font-size: 20px;
+		font-weight: 600;
 	}
-	.padthis{
-		padding: 9% 8%;
+	.logo {
+		display: block;
+		width: 260px;
+		margin-bottom: 60px;
+		img {
+			display: block;
+		}
 	}
-	h2 {
-		margin-bottom: 20px;
+	.logo.social-media {
+		width: 30px;
+		filter: opacity(50%);
 	}
 	p{
-		margin-bottom: 40px;
-	}
-	a.btn.donate-link {
-		display: inline-block;
-		padding: .8rem 2.8rem;
-		font-size: 1.5rem;
-		letter-spacing: .1rem;
-	}
-}
-.banner *{
-	color: white;
-}
-.banner h1 {
-	font-size: 3.5rem;
-	font-weight: 800;
+		margin-top: 15px;
+		font-size: 11px;
+		color: text;
+	} 
 }
 @import "aboutus";
 @import "donaciones";
