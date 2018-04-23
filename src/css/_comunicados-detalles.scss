@@ -1,33 +1,35 @@
 /* Comunicados - Detalles
 ------------------------------------------ */
 .news {
-	margin-top: 40px;
+	.smaller-container {
+		margin: 4% auto 8%;
+	}
 	.top {
 		p.date {
 			border-bottom: 1px solid #ccc;
 			font-size: 12px;
-			letter-spacing: .1rem;
-			margin-bottom: 10px;
+			letter-spacing: .05rem;
 			padding-bottom: 5px;
 		}
-		h3.title {
+		h1.title {
 			font-weight: 800;
 			color: $darkgray;
-			font-size: 24px;
+			font-size: 2rem;
 			margin-bottom: 20px;
 		}
 	}
 	.entry {
 		img {
 			display: block;
-			width: 600px;
+			max-width: 100%;
+			margin: 50px 0;
 		}
 		hr{
 			margin: 50px 0 35px;
 		}
 		.body {
 			font-size: 14px;
-			margin: 30px 20px 50px 0px;
+			line-height: 180%;
 		}
 	}
 	.more-news {
@@ -39,34 +41,22 @@
 			margin-bottom: 15px;
 			padding-bottom: 8px;
 		}
+		a {
+			display: inline-block;
+			color: #777;
+		}
 		.news-preview{
-			margin: 6px 10px;
-		}
-		.col p.date {
-			font-size: 12px;
-			margin-bottom: 4px;
-		}
-		.col p.title {
-			font-size: 14px;
-			font-weight: 600;
-		}
-		img.preview {
-			max-width: 120px;
-			max-height: 120px;
-			padding: 0px;
-		}
-		.popular {
-			margin-top: 30px;
-			button {
-				margin-bottom: 10px;
-				width: 50%;
-				&.active {
-					background-color: #ddd;
-				}
+			margin: 6px 0;
+			.date {
+				font-size: 12px;
+				margin-bottom: 4px;
 			}
-			.news-preview {
-				margin-left: 25px;
+			.title {
+				color: #2a2a2a;
+				font-size: 14px;
+				font-weight: 600;
 			}
 		}
+
 	}
 }
