@@ -2,7 +2,7 @@
 	<section class="unete">
 		<div class="container-fluid nospace">
 			<div class="row">
-				<div class="col-md-5 img-bg" data-bg="img/pexels.jpg">
+				<div class="col-md-5 img-bg d-sm-none d-md-block" data-bg="img/pexels.jpg">
 				</div>
 				<div class="col-md-7 bg-primary">
 					<div class="padthis">

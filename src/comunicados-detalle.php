@@ -3,7 +3,7 @@
 <div class="news container">
 	<div class="smaller-container" style="width: 95%">
 		<div class="row">
-			<div class="col-8 entry pr-5">
+			<div class="col-lg-8 entry pr-5">
 				<div class="top">
 					<h1 class="title">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis qui consectetur quas tenetur nostrum mollitia?</h1>
 					<p class="date">26 de marzo de 2018.</p>
@@ -16,7 +16,7 @@
 					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad voluptas eius placeat, voluptatibus cupiditate perspiciatis magni illum fuga eaque. Non laudantium sed maxime itaque! Dicta iste distinctio rerum odit minima autem alias voluptatibus, quibusdam magnam quae architecto molestiae voluptatem delectus excepturi placeat eos, velit magni! Cumque incidunt obcaecati hic esse quidem suscipit modi asperiores aliquid qui ab? Blanditiis molestias assumenda voluptate officiis magnam earum minima laboriosam id fugit, eaque eveniet deserunt sapiente asperiores distinctio rem.</p>
 				</div>
 			</div>
-			<div class="col-4 more-news">
+			<div class="col-lg-4 more-news mt-5 mt-lg-0">
 				<div class="similar">
 					<h5>M&aacute;s sobre</h5>
 					<?php for($i = 0; $i < 3; $i++): ?>
@@ -25,7 +25,7 @@
 								<a href="#"><img src="img/news-preview.jpg" alt="" class="preview"></a>
 							</div>
 							<div class="col-sm-7">
-								<a href="#" class="date">28 de marzo de 2018.</a>
+								<a href="#" class="date">28 de marzo de 2018.</a><br>
 								<a href="#" class="title">CADHAC celebra 25 años</a>
 							</div>
 						</div>
@@ -46,7 +46,7 @@
 										<a href="#"><img src="img/news-preview.jpg" alt="" class="preview"></a>
 									</div>
 									<div class="col-sm-7">
-										<a href="#" class="date">28 de marzo de 2018.</a>
+										<a href="#" class="date">28 de marzo de 2018.</a><br>
 										<a href="#" class="title">CADHAC celebra 25 años</a>
 									</div>
 								</div>
