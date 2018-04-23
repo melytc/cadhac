@@ -2,12 +2,13 @@
 	<section class="unete">
 		<div class="container-fluid nospace">
 			<div class="row">
-				<div class="col-md-5 img-bg d-sm-none d-md-block" data-bg="img/pexels.jpg">
+				<div class="col-md-5 img-bg d-sm-none d-md-block" data-bg="img/unete.jpg">
 				</div>
 				<div class="col-md-7 bg-primary">
 					<div class="padthis">
 						<h2 class="flight">&Uacute;nete</h2>
-						<p class="light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint quos, accusantium quae quasi magnam! Magni, accusamus placeat vel, corporis esse corrupti. Aperiam dolorum sunt, enim. Assumenda reiciendis expedita dolorem explicabo illum fuga mollitia, in accusantium sapiente ex, sunt sit quae, quidem consequatur unde dolor id architecto amet velit iusto deleniti delectus! Odio quasi rem hic fugit, voluptatum facere minus impedit?</p>
+						<p class="light">Nuestra misi&oacute;n es favorecer una cultura de respeto a los Derechos Humanos de todas las personas en el estado de Nuevo Le&oacute;n, sin discriminaci&oacute;n alguna.</p>
+						<p class="light">Ay&uacute;danos a cumplirla: invol&uacute;crate, s&eacute; voluntario, o convi&eacute;rtete en donante.</p>
 						<a href="#" class="btn bg-lightgreen btn-lg ttu donate-link"><strong>Dona</strong></a>
 					</div>
 				</div>
