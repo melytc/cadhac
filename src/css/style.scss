@@ -178,6 +178,27 @@ nav.navbar {
 /* Footer
 ---------------------------------- */
 section.unete {
+		.bg-primary *{
+		color: #fff;
+	}
+	.padthis{
+		padding: 9% 8%;
+	}
+	h2 {
+		margin-bottom: 20px;
+	}
+	p{
+		margin-bottom: 40px;
+	}
+	a.btn.donate-link {
+		display: inline-block;
+		padding: .8rem 2.8rem;
+		font-size: 1.5rem;
+		letter-spacing: .1rem;
+	}
+}
+
+section.contacto {
 	padding: 4% 8%;
 	background-color: #f6f6f6;
 	h1 {
@@ -202,8 +223,16 @@ section.unete {
 		margin-top: 15px;
 		font-size: 11px;
 		color: text;
-	} 
+	}
 }
+.banner *{
+	color: white;
+}
+.banner h1 {
+	font-size: 3.5rem;
+	font-weight: 800;
+}
+
 @import "aboutus";
 @import "donaciones";
 @import "publicaciones";
