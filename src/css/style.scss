@@ -199,30 +199,38 @@ section.unete {
 }
 
 section.contacto {
-	padding: 4% 8%;
+	padding: 4% 0;
 	background-color: #f6f6f6;
 	h1 {
-		margin-bottom: 25px;
 		color: $darkgray;
 		font-size: 20px;
 		font-weight: 600;
+		margin-bottom: 25px;
+	}
+	input {
+		border-radius: 0;
 	}
 	.logo {
 		display: block;
 		width: 260px;
-		margin-bottom: 60px;
-		img {
-			display: block;
-		}
 	}
-	.logo.social-media {
+	.social-media {
+		display: block;
+		img {display: block; }
+		margin-bottom: 60px;
 		width: 30px;
-		filter: opacity(50%);
+		opacity: .5;
 	}
 	p{
 		margin-top: 15px;
 		font-size: 11px;
-		color: text;
+		color: $text;
+	}
+	.col-9 a {
+		color: #444;
+	}
+	p.dir {
+		color: #999;
 	}
 }
 .banner *{

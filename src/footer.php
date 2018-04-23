@@ -16,7 +16,7 @@
 	</section>
 	
 	<section class="contacto">
-		<div class="container-fluid nospace">
+		<div class="container">
 			<div class="row">
 				<div class="col-9">
 					<h1>Recibe nuestras actualizaciones sobre derechos humanos y CADHAC.</h1>
@@ -27,25 +27,25 @@
 						</div>
 					</div>
 		
-					<a class="mr-5" href="#">Contáctanos</a>
-					<a href="#">Política de Privacidad</a>
-					<p>Ciudadanos en Apoyo a los Derechos Humanos A.C. | Vancouver 156, Col. Vista Hermosa, Monterrey NL M&eacute;xico | (81)83435058</p>
+					<a class="mr-5" href="#">Cont&aacute;ctanos</a>
+					<a href="#">Pol&iacute;tica de Privacidad</a>
+					<p class="dir"><span style="font-weight: 600;">Ciudadanos en Apoyo a los Derechos Humanos A.C.</span> | Vancouver 156, Col. Vista Hermosa, Monterrey NL M&eacute;xico | (81) 83435058</p>
 				</div>
 	
 				<div class="col mt-5">
 					<div class="row justify-content-end">
 						<div class="col-sm-2">
-							<a class="logo social-media" href="https://www.facebook.com/cadhac/"><img src="img/facebook-logo.svg" alt="Facebook"/></a>
+							<a class="social-media" href="https://www.facebook.com/cadhac/"><img src="img/facebook-logo.svg" alt="Facebook"/></a>
 						</div>
 						<div class="col-sm-2">
-							<a class="logo social-media" href="https://twitter.com/cadhac"><img src="img/twitter-logo.svg" alt="Twitter"/></a>
+							<a class="social-media" href="https://twitter.com/cadhac"><img src="img/twitter-logo.svg" alt="Twitter"/></a>
 						</div>
 						<div class="col-sm-2">
-							<a class="logo social-media" href="https://www.youtube.com/user/CADHAC/featured"><img src="img/youtube-logo.svg" alt="YouTube"/></a>
+							<a class="social-media" href="https://www.youtube.com/user/CADHAC/featured"><img src="img/youtube-logo.svg" alt="YouTube"/></a>
 						</div>
 					</div>
 					<div class="row justify-content-end">
-						<a class="logo" href="#"><img src="img/cadhaclogo.svg" alt="CADHAC"/></a>
+						<a class="logo" id="bottomlogo" href="#"><img src="img/cadhaclogo.svg" alt="CADHAC"/></a>
 					</div>
 				</div>
 			</div>
