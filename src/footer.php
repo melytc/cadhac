@@ -18,13 +18,13 @@
 				<div class="col mt-5">
 					<div class="row justify-content-end">
 						<div class="col-sm-2">
-							<a class="logo social-media" href="#"><img src="img/facebook-logo.svg" alt="Facebook"/></a>
+							<a class="logo social-media" href="https://www.facebook.com/cadhac/"><img src="img/facebook-logo.svg" alt="Facebook"/></a>
 						</div>
 						<div class="col-sm-2">
-							<a class="logo social-media" href="#"><img src="img/twitter-logo.svg" alt="Twitter"/></a>
+							<a class="logo social-media" href="https://twitter.com/cadhac"><img src="img/twitter-logo.svg" alt="Twitter"/></a>
 						</div>
 						<div class="col-sm-2">
-							<a class="logo social-media" href="#"><img src="img/youtube-logo.svg" alt="YouTube"/></a>
+							<a class="logo social-media" href="https://www.youtube.com/user/CADHAC/featured"><img src="img/youtube-logo.svg" alt="YouTube"/></a>
 						</div>
 					</div>
 					<div class="row justify-content-end">
