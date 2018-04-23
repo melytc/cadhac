@@ -34,7 +34,7 @@
 						<div class="col-md-9">
 							<p class="date ttu">Marzo 28, 2017</p>
 							<h3 class="title">Protocolo del uso de la fuerza para polic&iacute;as municipales</h3>
-							<p class="extract">El presente protocolo tiene como objetivo regular el uso de la fuerza de las y los agentes policiales municipales, en cumplimiento de sus funciones constitucionales y legales, para que  sea utilizada con estricto apego al marco normativo y para cumplir con las obligaciones constitucionales en materia de derechos humanos.</p>
+							<p class="extract">El presente protocolo tiene como objetivo regular el uso de la fuerza de las y los agentes policiales municipales, en cumplimiento de sus funciones constitucionales y legales, para que sea utilizada con estricto apego al marco normativo y para cumplir con las obligaciones constitucionales en materia de derechos humanos.</p>
 							<a href="#" class="btn download-report btn-primary bg-lightgreen">Descargar reporte</a>
 						</div>
 					</div>
@@ -51,6 +51,66 @@
 							<h3 class="title">Desaparici&oacute;n de personas en NL, sistematizaci&oacute;n de experiencias de b&uacute;squeda de la justicia y la verdad</h3>
 							<p class="extract">El objetivo de este documento es sistematizar la experiencia de estas pr&aacute;cticas, a trav&eacute;s de la explicaci&oacute;n detallada de los procesos que han permitido que las reuniones llevadas a cabo entre organizaciones civiles y la autoridad sean existosas y puedan servir de ejemplo a otros estados o pa&iacute;ses.</p>
 							<a href="#" class="btn download-report btn-primary bg-lightgreen">Descargar reporte</a>
+						</div>
+					</div>
+					<hr>
+				</article>
+
+				<article class="publication">
+					<div class="row">
+						<div class="col-md-3">
+							<img src="img/publicaciones/informe-2005.png" alt="Titulo del documento">
+						</div>
+						<div class="col-md-9">
+							<p class="date ttu">Enero, 2006</p>
+							<h3 class="title">Informe Anual 2005</h3>
+							<p class="extract">Como se desprende del presente informe, el 2005 ha sido un año rico en aprendizajes para Ciudadanos en Apoyo a los Derechos Humanos, A. C. El haber podido realizar eventos con presencia de actores nacionales en temas como niños, niñas y adolescentes, discriminación y pobreza, así como la elaboración del Diagnóstico de la Situación de los Derechos Humanos en el Sistema Penitenciario de Nuevo León, al mismo tiempo de fortalecer el quehacer cotidiano del respeto a los derechos humanos localmente y coordinar esfuerzos con otras organizaciones civiles tanto a nivel nacional como en la zona norte de México para enfrentar lo más inteligentemente posible los retos que con el incremento de violencia, presencia de narcotráfico, y el binomio corrupción impunidad, se nos presentan.</p>
+							<a href="/publicaciones/informe-2005.pdf" class="btn download-report btn-primary bg-lightgreen">Descargar reporte</a>
+						</div>
+					</div>
+					<hr>
+				</article>
+
+				<article class="publication">
+					<div class="row">
+						<div class="col-md-3">
+							<img src="img/publicaciones/informe-2004.png" alt="Titulo del documento">
+						</div>
+						<div class="col-md-9">
+							<p class="date ttu">Enero, 2005</p>
+							<h3 class="title">Informe Anual 2004</h3>
+							<p class="extract">Como se desprende del presente informe, el 2004 ha sido un año rico en actividades y aprendizaje para Ciudadanos en Apoyo a los Derechos Humanos, A. C. El fortalecimiento de la organización, la profesionalización del equipo de trabajo y la permanencia de sus integrantes se han conjuntado con el prestigio moral acumulado tras años de labor para dar como resultado doce meses de trabajo intenso con algunos logros significativos. </p>
+							<a href="/publicaciones/informe-2004.pdf" class="btn download-report btn-primary bg-lightgreen">Descargar reporte</a>
+						</div>
+					</div>
+					<hr>
+				</article>
+
+				<article class="publication">
+					<div class="row">
+						<div class="col-md-3">
+							<img src="img/publicaciones/informe-2003.png" alt="Titulo del documento">
+						</div>
+						<div class="col-md-9">
+							<p class="date ttu">Diciembre, 2003</p>
+							<h3 class="title">Informe Anual 2003</h3>
+							<p class="extract">El presente Informe Semestral de Actividades, Julio a Diciembre de 2003, describe las principales actividades, logros y desafíos en el trabajo de Ciudadanos en Apoyo a los Derechos Humanos, Asociación Civil.</p>
+							<a href="/publicaciones/informe-2003.pdf" class="btn download-report btn-primary bg-lightgreen">Descargar reporte</a>
+						</div>
+					</div>
+					<hr>
+				</article>
+
+				<article class="publication">
+					<div class="row">
+						<div class="col-md-3">
+							<img src="img/publicaciones/informe-2002.png" alt="Titulo del documento">
+						</div>
+						<div class="col-md-9">
+							<p class="date ttu">Diciembre, 2002</p>
+							<h3 class="title">Informe Anual 2002</h3>
+							<p class="extract">La crisis económica que cada día genera más pobreza, la injusticia estructural y sistemática, la violencia y la opresión, amenazan a la humanidad, sin embargo, día a día queremos fortalecer nuestra fé y esperanza de cambiar las cosas y contagiar cada vez a más personas con la convicción de que ejercer la dignidad propia y respetar a los otros, buscar la paz y la justicia, vale la pena, y que los signos que se nos presentan como las voces de hombres y mujeres de todo el mundo que se unen por la paz nos alumbra para seguir en este camino.</p>
+							<a href="/publicaciones/informe-2002.pdf" class="btn download-report btn-primary bg-lightgreen">Descargar reporte</a>
 						</div>
 					</div>
 					<hr>
