@@ -59,6 +59,51 @@
 				<article class="publication">
 					<div class="row">
 						<div class="col-md-3">
+							<img src="img/publicaciones/informe-2008.png" alt="Titulo del documento">
+						</div>
+						<div class="col-md-9">
+							<p class="date ttu">2008</p>
+							<h3 class="title">Informe de Actividades 2008</h3>
+							<p class="extract">El año 2008, evidenció que en la entidad se atraviesa un momento difícil para el trabajo a favor de los derechos humanos. La ciudadanía percibe un grave deterioro en los niveles de seguridad pública, además de que ha sido afectada directamente por las políticas públicas que han emprendido las autoridades de los tres niveles de gobierno con pretexto del combate al narcotráfico. Sin temor a equivocarnos podemos apuntar que a partir del 2007, y con mayor impacto en el periodo descrito, se registran claros retrocesos en materia de DH en la entidad.</p>
+							<a href="/publicaciones/informe-2008.pdf" class="btn download-report btn-primary bg-lightgreen">Descargar reporte</a>
+						</div>
+					</div>
+					<hr>
+				</article>
+
+				<article class="publication">
+					<div class="row">
+						<div class="col-md-3">
+							<img src="img/publicaciones/informe-2007.png" alt="Titulo del documento">
+						</div>
+						<div class="col-md-9">
+							<p class="date ttu">2007</p>
+							<h3 class="title">Informe de Actividades, Segundo Semestre de 2007</h3>
+							<p class="extract">Durante el segundo semestre de 2007, continuaron manifestándose los peligros a los derechos humanos que detectamos desde principios de año, si bien la violencia relacionada con el narcotráfico disminuyó en este semestre, otras amenazas a los derechos humanos, como la presencia militar en las calles, los operativos inconstitucionales y la legitimación de prácticas violatorias a los derechos humanos, han continuado.</p>
+							<a href="/publicaciones/informe-2007.pdf" class="btn download-report btn-primary bg-lightgreen">Descargar reporte</a>
+						</div>
+					</div>
+					<hr>
+				</article>
+
+				<article class="publication">
+					<div class="row">
+						<div class="col-md-3">
+							<img src="img/publicaciones/informe-2006.png" alt="Titulo del documento">
+						</div>
+						<div class="col-md-9">
+							<p class="date ttu">Enero, 2007</p>
+							<h3 class="title">Informe Anual 2006</h3>
+							<p class="extract">Durante el primer semestre de 2006 nos dimos cuenta de la necesidad de plantearnos nuestras formas de trabajar para lograr una cultura de respeto a los derechos humanos. Durante el segundo semestre de 2006, tomando en cuenta nuestras fuerzas y debilidades, consideremos que estamos en el momento oportuno para dar un paso cualitativo. Para ello hemos trabajado en nuestra planeación estratégica de donde concluimos la necesidad de focalizar nuestro esfuerzo.</p>
+							<a href="/publicaciones/informe-2006.pdf" class="btn download-report btn-primary bg-lightgreen">Descargar reporte</a>
+						</div>
+					</div>
+					<hr>
+				</article>
+
+				<article class="publication">
+					<div class="row">
+						<div class="col-md-3">
 							<img src="img/publicaciones/informe-2005.png" alt="Titulo del documento">
 						</div>
 						<div class="col-md-9">
