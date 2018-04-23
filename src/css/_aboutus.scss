@@ -1,6 +1,7 @@
 
 .aboutus.content {
-	.banner{
+	.banner {
+		background-position: center bottom -110px;
 		padding: 15% 0;
 		&.bg-black-alpha:before {
 			background: rgba(0,0,0,.5);
@@ -26,13 +27,19 @@
 			margin-bottom: 30px;
 		}
 	}
+	.reconocimientos .img-bg{
+		height: 600px;;
+	}
 	.semblanza{
-		padding: 8%;
+		padding: 5%;
 		p {line-height: 180%;}
 	}
 	.recs {
 		background-color: #efefef;
 		border-top: 4px solid $lightgreen;
+		height: 600px;
+		overflow-y: scroll;
+		position: relative;
 	}
 	.awards-list {
 		list-style: none;
@@ -85,18 +92,21 @@
 			}
 		}
 	}
-	.one .desc {
-		padding: 0 0 6%;
-		line-height: 200%;
-		h2{
-			margin-bottom: 20px;
-		}
-		p{
-			font-size: 1.2rem;
-		}
-		&.first {
-			padding-bottom: 0;
-			padding-top: 6%;
+	.one {
+		padding: 4%;
+		.desc {
+			padding: 0 0 6%;
+			line-height: 200%;
+			h2{
+				margin-bottom: 20px;
+			}
+			p{
+				font-size: 1.2rem;
+			}
+			&.first {
+				padding-bottom: 0;
+				padding-top: 6%;
+			}
 		}
 	}
 }
