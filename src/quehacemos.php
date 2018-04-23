@@ -50,9 +50,10 @@
 			<div class="row">
 				<div class="col-md-7">
 					<article class="frame">
-						<h2 class="title">Acompa&ntilde;amiento a familias con personas desaparecidas</h2>
+						<h2 class="title">Acompa&ntilde;amiento</h2>
 						<span class="topline white"></span>
-						<p>CADHAC da acompa&ntilde;amiento psicosocial (social, psicol&oacute;gico y jur&iacute;dico) de manera gratuita a familias con personas desaparecidas en el estado de Nuevo Le&oacute;n y Tamaulipas. El colectivo de Agrupaci&oacute;n de Mujeres Organizadas por los Ejecutados Secuestrados y Desaparecidos de Nuevo Le&oacute;n (AMORES) se re&uacute;ne cada mi&eacute;rcoles en CADHAC. </p>
+						<p>CADHAC da acompa&ntilde;amiento psicosocial (social, psicol&oacute;gico y jur&iacute;dico) de manera gratuita a familias con personas desaparecidas en el estado de Nuevo Le&oacute;n y Tamaulipas.</p>
+						<p> El colectivo de Agrupaci&oacute;n de Mujeres Organizadas por los Ejecutados Secuestrados y Desaparecidos de Nuevo Le&oacute;n (AMORES) se re&uacute;ne cada mi&eacute;rcoles en CADHAC. </p>
 						<p>Las familias tienen revisi&oacute;n de sus expedientes con la Fiscal&iacute;a de Nuevo Le&oacute;n y Tamaulipas. A su vez, se da terapia de juego a  ni&ntilde;os y ni&ntilde;as que tienen un familiar desaparecido. </p>
 					</article>
 				</div>
@@ -88,58 +89,6 @@
 			</div>
 		</div>
 	</section>
-	
-	<section class="project project-bg right bg-secondary">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-md-7 order-2">
-					<article class="frame">
-						<h2 class="title">Asesoría jur&iacute;dica</h2>
-						<p class="m-0"><span class="topline white"></span></p>
-						<p>Se brinda asesor&iacute;a jur&iacute;dica gratuita a personas v&iacute;ctimas de violaciones a derechos humanos.</p>
-						<p>Entre ellas destacan casos de tortura, ejecuci&oacute;n extrajudicial, desaparici&oacute;n forzada, abuso de autoridad, entre otras. </p>
-					</article>
-				</div>
-				<div class="col-md-5 order-1 photo-grid">
-					<div class="row" style="height: 50%;">
-						<div class="col img-bg" data-bg="img/quehacemos/juridico.jpg"></div>
-						<div class="col img-bg" data-bg="img/pexels.jpg"></div>
-					</div>
-					<div class="row" style="height: 50%;">
-						<div class="col img-bg" data-bg="img/pexels.jpg"></div>
-						<div class="col img-bg" data-bg="img/pexels.jpg"></div>
-					</div>
-					<div class="overlay-bg bg-secondary"></div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	<section class="project project-bg right bg-lightgreen">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-md-7 order-2">
-					<article class="frame">
-						<h2 class="title">Penitenciario</h2>
-						<p class="m-0"><span class="topline white"></span></p>
-						<p>Se ofrece asesor&iacute;a gratuita y gestiones para personas privadas de la libertad en centros penitenciarios de Nuevo Le&oacute;n. Monitoreo de condiciones b&aacute;sicas.</p>
-					</article>
-				</div>
-				<div class="col-md-5 order-1 photo-grid">
-					<div class="row" style="height: 50%;">
-						<div class="col img-bg" data-bg="img/quehacemos/penitenciario.jpg"></div>
-						<div class="col img-bg" data-bg="img/pexels.jpg"></div>
-					</div>
-					<div class="row" style="height: 50%;">
-						<div class="col img-bg" data-bg="img/pexels.jpg"></div>
-						<div class="col img-bg" data-bg="img/pexels.jpg"></div>
-					</div>
-					<div class="overlay-bg bg-secondary"></div>
-				</div>
-			</div>
-		</div>
-	</section>
-
 	<section class="project project-bg right bg-secondary">
 		<div class="container-fluid">
 			<div class="row">
@@ -160,6 +109,24 @@
 						<div class="col img-bg" data-bg="img/pexels.jpg"></div>
 					</div>
 					<div class="overlay-bg bg-secondary"></div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="project twocol">
+		<div class="container-w90p">
+			<h2 class="title mb-1">Asesor&iacute;a</h2>
+			<div class="row">
+				<div class="col p-5">
+					<span class="topline purple"></span>
+					<h3 class="subtitle">Asesor&iacute;a jur&iacute;dica</h3>
+					<p>Se brinda asesor&iacute;a jur&iacute;dica gratuita a personas v&iacute;ctimas de violaciones a derechos humanos.</p>
+					<p>Entre ellas destacan casos de tortura, ejecuci&oacute;n extrajudicial, desaparici&oacute;n forzada, abuso de autoridad, entre otras. </p>
+				</div>
+				<div class="col p-5">
+					<span class="topline green"></span>
+					<h3 class="subtitle">Penitenciario</h3>
+					<p>Se ofrece asesor&iacute;a gratuita y gestiones para personas privadas de la libertad en centros penitenciarios de Nuevo Le&oacute;n. Monitoreo de condiciones b&aacute;sicas.</p>
 				</div>
 			</div>
 		</div>
