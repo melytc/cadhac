@@ -27,7 +27,7 @@
 		}
 	}
 	.semblanza{
-		padding: 8%;
+		padding: 5%;
 		p {line-height: 180%;}
 	}
 	.recs {
@@ -85,18 +85,21 @@
 			}
 		}
 	}
-	.one .desc {
-		padding: 0 0 6%;
-		line-height: 200%;
-		h2{
-			margin-bottom: 20px;
-		}
-		p{
-			font-size: 1.2rem;
-		}
-		&.first {
-			padding-bottom: 0;
-			padding-top: 6%;
+	.one {
+		padding: 4%;
+		.desc {
+			padding: 0 0 6%;
+			line-height: 200%;
+			h2{
+				margin-bottom: 20px;
+			}
+			p{
+				font-size: 1.2rem;
+			}
+			&.first {
+				padding-bottom: 0;
+				padding-top: 6%;
+			}
 		}
 	}
 }

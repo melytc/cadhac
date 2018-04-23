@@ -3,7 +3,7 @@
 	<section class="banner img-bg bg-black-alpha" data-bg="img/pexels.jpg">
 		<div class="container">
 			<h1 class="white">Sobre nosotros</h1>
-			<p class="subtitle white">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+			<p class="subtitle white">Luchamos d&iacute;a a d&iacute;a por los derechos humanos</p>
 		</div>
 	</section>
 
@@ -34,9 +34,9 @@
 				<div class="col-7">
 					<div class="semblanza">
 						<h2>Hermana Consuelo Morales</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit veniam voluptate sit, molestias omnis expedita sed, eius animi hic eveniet minima fuga deserunt doloremque nesciunt! Nam temporibus voluptatem maxime quae ea hic, minus nulla? Tempora ut accusantium, molestias asperiores aliquam numquam odit error obcaecati nostrum voluptates ullam repellat alias quibusdam voluptatem, blanditiis nihil sed harum nulla temporibus laborum. Nobis dignissimos non beatae in corrupti. Ullam maxime eligendi accusantium illo reiciendis maiores dignissimos sit dolorem ipsa.</p>
+						<p>Consuelo Gloria Morales Elizondo (Monterrey, Nuevo L&eacute;on; marzo de 1949)1 es una activista mexicana, fundadora y directora de la organizaci&oacute;n Ciudadanos en Apoyo a los Derechos Humanos, A.C. Su labor como defensora de las v&iactue;ctimas de los Derechos Humanos ha sido reconocida por diversas instituciones nacionales e internacionales como el Premio Nacional de Derechos Humanos de la Comisi&oacute;n Nacional de Derechos Humanos y el premio Alison Des Forges por Activismo Extraordinario de Human Rights Watch.</p>
 						
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt architecto officiis dolores dicta minima expedita necessitatibus fugit omnis voluptatibus sapiente, labore, officia deleniti deserunt sed quasi temporibus. Saepe, quos obcaecati.</p>
+						<p>Tras a&ntilde;os de trabajo con comunidades ind&iacute;genas en Veracruz y ni&ntilde;os de la calle en la Ciudad de M&eacute;xico, la hermana Consuelo regresa a su ciudad natal y encuentra una comunidad plagada de abusos pero sin la protecci&oacute;n de alguna organizaci&oacute;n de Derechos Humanos.​ En 1993 forma parte del equipo fundador de la asociaci&oacute;n Ciudadanos en Apoyo de Derechos Humanos, para subsanar este vac&iacute;o y es su directora desde entonces.</p>
 						
 						<p>Escucha su TED talk <a href="https://www.youtube.com/watch?v=rLRH5EVGBVg">aqu&iacute;</a>.</p>
 					</div>
@@ -62,7 +62,7 @@
 									</div>
 									<div class="col-md-11">
 										<a href="#" class="title">2015 - Premio Nacional de DDHH</a>
-										<p class="desc">La Hermana Consuelo Morales recibe el Premio Nacional de Derecho Humanos, que otorga la Comisi&oacute;n Nacional de Derechos Humanos en México.</p>
+										<p class="desc">La Hna. Consuelo Morales recibe el Premio Nacional de Derecho Humanos, que otorga la Comisi&oacute;n Nacional de Derechos Humanos en M&eacute;xico.</p>
 									</div>
 								</div>
 							</li>
@@ -73,8 +73,8 @@
 										
 									</div>
 									<div class="col-md-11">
-										<a href="#" class="title">2015 - Premio Nacional de DDHH</a>
-										<p class="desc">La Hermana Consuelo Morales recibe el Premio Nacional de Derecho Humanos, que otorga la Comisi&oacute;n Nacional de Derechos Humanos en México.</p>
+										<a href="#" class="title">2015 - Premio "Gilberto Bosques"</a>
+										<p class="desc">CADHAC recibe el premio Franco-Alem&aacute;n de Derechos Humanos “Gilberto Bosques”, que las Embajadas de Alemania y Francia en M&eacute;xico otorgan desde el 2013.</p>
 									</div>
 								</div>
 							</li>
@@ -85,8 +85,80 @@
 										
 									</div>
 									<div class="col-md-11">
-										<a href="#" class="title">2015 - Premio Nacional de DDHH</a>
-										<p class="desc">La Hermana Consuelo Morales recibe el Premio Nacional de Derecho Humanos, que otorga la Comisi&oacute;n Nacional de Derechos Humanos en México.</p>
+										<a href="#" class="title">2014 - Medalla al M&eacute;rito C&iacute;vico</a>
+										<p class="desc">La Hna. Consuelo Morales recibe la Medalla al M&eacute;rito C&iacute;vico “Presea Estado de Nuevo Le&oacute;n”, m&aacute;ximo reconocimiento que otorga Nuevo Le&oacute;n.</p>
+									</div>
+								</div>
+							</li>
+							<li class="award">
+								<div class="row">
+									<div class="col-md-1">
+										<a href="#"><span class="circle"></span></a>
+										
+									</div>
+									<div class="col-md-11">
+										<a href="#" class="title">2014 - Reconocimiento del Movimeinto por la Paz con Justicia y Dignidad</a>
+										<p class="desc">CADHAC recibe el reconocimiento del Movimiento por la Paz con Justicia y Dignidad (Chihuahua) por su trabajo en Nuevo Le&oacute;n.</p>
+									</div>
+								</div>
+							</li>
+							<li class="award">
+								<div class="row">
+									<div class="col-md-1">
+										<a href="#"><span class="circle"></span></a>
+										
+									</div>
+									<div class="col-md-11">
+										<a href="#" class="title">2012 - Premio "Don Sergio M&eacte;ndez Arceo</a>
+										<p class="desc">CADHAC recibe el premio “Don Sergio M&eacute;ndez Arceo”, el de mayor prestigio en M&eacute;xico para personas defensoras de derechos humanos y organizaciones de la sociedad civil.</p>
+									</div>
+								</div>
+							</li>
+							<li class="award">
+								<div class="row">
+									<div class="col-md-1">
+										<a href="#"><span class="circle"></span></a>
+										
+									</div>
+									<div class="col-md-11">
+										<a href="#" class="title">2012 - Premio Alison Des Forges</a>
+										<p class="desc">La Hna. Consuelo recibe el premio Alison Des Forges por Activismo Extraordinario, el m&aacute;s alto honor que otroga la organizaci&ooacute;n internacional Human Rights Watch.</p>
+									</div>
+								</div>
+							</li>
+							<li class="award">
+								<div class="row">
+									<div class="col-md-1">
+										<a href="#"><span class="circle"></span></a>
+										
+									</div>
+									<div class="col-md-11">
+										<a href="#" class="title">2010 - Permio Nacional por la Igualdad y la No Discriminaci&oacute;n</a>
+										<p class="desc">El Consejo Nacional para Prevenir la Discriminaci&oacute;n (CONAPRED) otorga el Premio Nacional por la Igualdad y la No Discriminaci&oacute;n a la Hermana Consuelo Morales.</p>
+									</div>
+								</div>
+							</li>
+							<li class="award">
+								<div class="row">
+									<div class="col-md-1">
+										<a href="#"><span class="circle"></span></a>
+										
+									</div>
+									<div class="col-md-11">
+										<a href="#" class="title">2008 - Premio "Tata Vasco</a>
+										<p class="desc">CADHAC recibe el Premio “Tata Vasco” por su destacada labor en favor de los derechos humanos en Nuevo Le&oacute;n.</p>
+									</div>
+								</div>
+							</li>
+							<li class="award">
+								<div class="row">
+									<div class="col-md-1">
+										<a href="#"><span class="circle"></span></a>
+										
+									</div>
+									<div class="col-md-11">
+										<a href="#" class="title">2008 - Reconocimiento de la Comisi&oacute;n de DDHH</a>
+										<p class="desc">CADHAC recibe un reconocimiento de la Comisi&oacute;n de Derechos Humanos del Distrito Federal.</p>
 									</div>
 								</div>
 							</li>
