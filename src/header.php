@@ -20,12 +20,12 @@
 		<div class="container">
 			<div class="row">
 				<div class="col">
-					<a class="logo" href="#"><img src="img/cadhaclogo.svg" alt="CADHAC"/></a>
+					<a class="logo" href="/"><img src="img/cadhaclogo.svg" alt="CADHAC"/></a>
 				</div>
 				<div class="col">
 					<div class="row justify-content-end align-items-center">
-						<a class="language ttu" href="#">English</a>
-						<a class="btn bg-accent ttu" href="#">Dona</a>
+						<a class="language ttu d-none" href="#">English</a>
+						<a class="btn bg-accent ttu" href="donaciones.php">Dona</a>
 					</div>
 				</div>
 			</div>
@@ -39,12 +39,12 @@
 						</button>
 						<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 							<div class="navbar-nav">
-								<a class="nav-item nav-link ttu" href="#">Sobre nosostros</a>
-								<a class="nav-item nav-link ttu" href="#">Qu&eacute; hacemos</a>
-								<a class="nav-item nav-link ttu" href="#">Comunicados</a>
-								<a class="nav-item nav-link ttu" href="#">Publicaciones</a>
-								<a class="nav-item nav-link ttu" href="#">Desaparecidos</a>
-								<a class="nav-item nav-link ttu" href="#">Contacto</a>
+								<a class="nav-item nav-link ttu" href="aboutus.php">Sobre nosostros</a>
+								<a class="nav-item nav-link ttu" href="quehacemos.php">Qu&eacute; hacemos</a>
+								<a class="nav-item nav-link ttu d-none" href="#">Comunicados</a>
+								<a class="nav-item nav-link ttu" href="publicaciones.php">Publicaciones</a>
+								<a class="nav-item nav-link ttu d-none" href="#">Desaparecidos</a>
+								<a class="nav-item nav-link ttu" href="contact.php">Contacto</a>
 							</div>
 						</div>
 					</nav>

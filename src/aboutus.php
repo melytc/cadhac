@@ -1,6 +1,6 @@
 <?php include "header.php" ?>
 <div class="aboutus content">
-	<section class="banner img-bg bg-black-alph" data-bg="img/sobrenosotros.jpg">
+	<section class="banner img-bg bg-black-alpha" data-bg="img/sobrenosotros.jpg">
 		<div class="container">
 			<h1 class="white">Sobre nosotros</h1>
 			<p class="subtitle white">Luchamos d&iacute;a a d&iacute;a por los derechos humanos</p>
