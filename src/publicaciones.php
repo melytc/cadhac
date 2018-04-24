@@ -30,7 +30,7 @@
 				<article class="publication">
 					<div class="row">
 						<div class="col-md-3">
-							<img src="img/p-desapariciones en NL.png" alt="Titulo del documento">
+							<img src="img/p-desapariciones-en-nl.jpg" alt="Titulo del documento">
 						</div>
 						<div class="col-md-9">
 							<p class="date ttu">2016</p>
