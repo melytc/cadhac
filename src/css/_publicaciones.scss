@@ -27,6 +27,9 @@ $purple2: #6b3e98;
 			font-weight: 700;
 			width: 40%;
 			margin: 20px 0 40px;
+			@media(max-width: 1200px) {
+				width: 100%;
+			}
 		}
 	}
 	h1 {
@@ -61,6 +64,12 @@ $purple2: #6b3e98;
 		p.extract {
 			font-size: 16px;
 			margin-bottom: 40px;
+		}
+	}
+
+	@media(max-width: 1200px) {
+		.smaller-container {
+			width: 100%;
 		}
 	}
 }
