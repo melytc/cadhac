@@ -3,16 +3,21 @@
 
 .content.home {
 	margin-bottom: 0;
+
+	#sliderhome{
+		max-height: 550px;
+		overflow: hidden;
+	}
 	> section {
 		padding: 6% 0;
 	}
 	section.one * {
 		color: $secondary;
 		text-align: center;
-	}
+	}/* 
 	.banner {
 		padding: 20% 0;
-	}
+	} */
 	section.one  {
 		.title {
 			margin-bottom: 60px;
