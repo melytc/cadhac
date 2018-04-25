@@ -84,7 +84,7 @@
 				<div class="col p-5">
 					<span class="topline green"></span>
 					<h3 class="subtitle">Monitoreo Policial</h3>
-					<p>A trav&eacute;s de entrevistas a personas detenidas por faltas administrativas en el centro de detenci&oacute;n Alamey, el municipio de Monterrey, se eval&uacute;a y analiza los proceso de detenci&oacute;n y el uso de la fuerza por polic&iacute;as municipales en acorde a lo establecido en el Protocolo Sobre Uso de la Fuerza. A su vez se dan talleres a policías en materia de derechos humanos. </p>
+					<p>A trav&eacute;s de entrevistas a personas detenidas por faltas administrativas en el centro de detenci&oacute;n Alamey, el municipio de Monterrey, se eval&uacute;a y analiza los proceso de detenci&oacute;n y el uso de la fuerza por polic&iacute;as municipales en acorde a lo establecido en el Protocolo Sobre Uso de la Fuerza. A su vez se dan talleres a polic&iacute;as en materia de derechos humanos. </p>
 				</div>
 			</div>
 		</div>
