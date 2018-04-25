@@ -34,7 +34,6 @@
 							<br><br>
 							<strong>Tel&eacute;fono: </strong> (81) 83435058 <br>
 							<strong>Correo electr&oacute;nico: </strong> cadhac@cadhac.org <br>
-
 						</p>
 					</aside>
 				</div>

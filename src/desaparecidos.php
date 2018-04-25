@@ -53,7 +53,7 @@
 						</section>
 					</aside>
 				</div>
-				<div class="col-md-9" style="padding-left: 60px;">
+				<div class="col-md-9 pl-0 pl-md-5">
 					<form action="#" class="search-alpha-form">
 						<input type="text" name="q" id="q" placeholder="Buscar">
 						<i class="fa fa-search">
@@ -68,7 +68,7 @@
 						<?php for ($i=0; $i < 3; $i++): ?>
 							<div class="row">
 								<?php for($j = 0; $j < 4; $j++): ?>
-									<div class="col-md-3 person tac">
+									<div class="col-sm-3 person tac">
 										<div class="round-img">
 											<a href="#"><img src="img/pexels.jpg" alt="" class="profile"></a>
 
