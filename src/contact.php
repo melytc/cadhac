@@ -30,7 +30,7 @@
 				<div class="col-md-4">
 					<aside class="sidebar">
 						<p>
-							Vancouver 156 <br> Col. Vista Hermosa <br> Monterrey, Nuevo León, N.L. <br> CP 64620, México.
+							Vancouver 156 <br> Col. Vista Hermosa <br> Monterrey, Nuevo Le&oacute;n, N.L. <br> CP 64620, M&eacute;xico.
 							<br><br>
 							<strong>Tel&eacute;fono: </strong> (81) 83435058 <br>
 							<strong>Correo electr&oacute;nico: </strong> cadhac@cadhac.org <br>
