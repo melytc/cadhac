@@ -125,7 +125,7 @@
 						<div class="col-md-9">
 							<p class="date ttu">2012</p>
 							<h3 class="title">Informe de Actividades 2012</h3>
-							<p class="extract">En este sentido, el objetivo de este documento es mostrar la labor de esta organizaci&oacute;n a trav&eacute;s de las actividades realizadas en el a&ntilde;o 2012, las cuales concretan y reafirman su compromiso con la causa de los derechos humanos en nuestra comunidad. El documento se desglosa en cuatro partes, las cuales corresponden a sus &aacute;mbitos de acci&oacute;n: jur&iacute;dico, psicosocial y comunicaci&oacute;n. Al final se incluyen documentos de inter&eacute;s en Anexos.</p>
+							<p class="extract">El objetivo de este documento es mostrar la labor de esta organizaci&oacute;n a trav&eacute;s de las actividades realizadas en el a&ntilde;o 2012, las cuales concretan y reafirman su compromiso con la causa de los derechos humanos en nuestra comunidad. El documento se desglosa en cuatro partes, las cuales corresponden a sus &aacute;mbitos de acci&oacute;n: jur&iacute;dico, psicosocial y comunicaci&oacute;n. Al final se incluyen documentos de inter&eacute;s en Anexos.</p>
 							<a href="publicaciones/informe-2012.pdf" download class="btn download-report btn-primary bg-lightgreen">Descargar reporte</a>
 						</div>
 					</div>
@@ -185,7 +185,7 @@
 						<div class="col-md-9">
 							<p class="date ttu">2008</p>
 							<h3 class="title">Informe de Actividades 2008</h3>
-							<p class="extract">El a&ntilde;o 2008, evidenci&oacute; que en la entidad se atraviesa un momento dif&iacute;cil para el trabajo a favor de los derechos humanos. La ciudadan&iacute;a percibe un grave deterioro en los niveles de seguridad p&uacte;blica, adem&aacute;s de que ha sido afectada directamente por las pol&iacute;ticas p&uacte;blicas que han emprendido las autoridades de los tres niveles de gobierno con pretexto del combate al narcotr&aacute;fico. Sin temor a equivocarnos podemos apuntar que a partir del 2007, y con mayor impacto en el periodo descrito, se registran claros retrocesos en materia de DH en la entidad.</p>
+							<p class="extract">El a&ntilde;o 2008, evidenci&oacute; que en la entidad se atraviesa un momento dif&iacute;cil para el trabajo a favor de los derechos humanos. La ciudadan&iacute;a percibe un grave deterioro en los niveles de seguridad p&uacute;blica, adem&aacute;s de que ha sido afectada directamente por las pol&iacute;ticas p&uacute;blicas que han emprendido las autoridades de los tres niveles de gobierno con pretexto del combate al narcotr&aacute;fico. Sin temor a equivocarnos podemos apuntar que a partir del 2007, y con mayor impacto en el periodo descrito, se registran claros retrocesos en materia de DH en la entidad.</p>
 							<a href="publicaciones/informe-2008.pdf" download class="btn download-report btn-primary bg-lightgreen">Descargar reporte</a>
 						</div>
 					</div>
