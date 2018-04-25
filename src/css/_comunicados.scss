@@ -9,6 +9,9 @@
 	}
 	.bloglist {
 		._s-post {
+			a {
+				display: inline-block;
+			}
 			.date {
 				font-size: .7rem;
 				text-transform: uppercase;
@@ -34,6 +37,24 @@
 				margin: 30px auto 40px;
 				border-color: #ddd;
 			}
+			@media(max-width: 768px) {
+				.post-img, img {
+					width: 100%;
+				}
+				.post-img {
+					max-height: 200px;
+					overflow: hidden;
+					margin-bottom: 30px;
+				}
+				.date {
+					margin-bottom: 10px;
+				}
+			}
+		}
+	}
+	@media(max-width: 768px) {
+		h1 {
+			margin: 40px 0;
 		}
 	}
 	.sidebar {

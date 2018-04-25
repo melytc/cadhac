@@ -9,12 +9,12 @@
 	</section>
 	<div class="container">
 		<div class="smaller-container">
-			<h1>Publicaciones</h1>
+			<h1 class="mb-4 mb-md-5">Publicaciones</h1>
 			<div class="pubslist">
 
 				<article class="publication">
 					<div class="row">
-						<div class="col-md-3">
+						<div class="col-md-3 d-none d-md-block">
 							<img src="img/p-protocolo.png" alt="Titulo del documento">
 						</div>
 						<div class="col-md-9">
@@ -29,11 +29,11 @@
 
 				<article class="publication">
 					<div class="row">
-						<div class="col-md-3">
-							<img src="img/p-desapariciones-en-nl.jpg" alt="Titulo del documento">
+						<div class="col-md-3 d-none d-md-block">
+							<img src="img/p-desapariciones en NL.png" alt="Titulo del documento">
 						</div>
 						<div class="col-md-9">
-							<p class="date ttu">2016</p>
+							<p class="date mt-3 mt-md-0 ttu">2016</p>
 							<h3 class="title">Desapariciones en Nuevo Le&oacute;n desde la mirada de CADHAC: Informe 2009-2016</h3>
 							<p class="extract">Desapariciones en Nuevo Le&oacute;n, desde la mirada de CADHAC: Informe 2009-2016 es un aporte fundamental, un referente y, por tanto, una lectura obligada de consulta. Por una parte, nos permite entender el contexto y desarrollo del fen&oacute;meno en dicha entidad y, por otra, nos da cuenta de la experiencia y los aportes que desde Ciudadanos en Apoyo a los Derechos Humanos, A. C. se han venido desarrollando en los &uacute;ltimos a&ntilde;os, tanto para recibir y documentar casos de personas desaparecidas como para brindar acompa&ntilde;amiento legal y psicosocial a los familiares de v&iacute;ctimas.</p>
 							<a href="publicaciones/desapariciones-nl-2009-a-2016.pdf" download class="btn download-report btn-primary bg-lightgreen">Descargar reporte</a>

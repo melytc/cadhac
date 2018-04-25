@@ -5,7 +5,7 @@
 		<div class="smaller-container">
 			<h1>Contacto</h1>
 			<div class="row">
-				<div class="col-md-8" style="padding-right: 60px;">
+				<div class="col-md-8 pr-md-5">
 					<form action="#" class="contact-form">
 						<div class="form-group">
 							<label for="name">Nombre:</label>
@@ -27,14 +27,13 @@
 						<button type="submit" class="w-100 submit btn bg-primary">Enviar</button>
 					</form>
 				</div>
-				<div class="col-md-4">
+				<div class="col-md-4 mt-5 mt-md-0">
 					<aside class="sidebar">
 						<p>
 							Vancouver 156 <br> Col. Vista Hermosa <br> Monterrey, Nuevo Le&oacute;n, N.L. <br> CP 64620, M&eacute;xico.
 							<br><br>
 							<strong>Tel&eacute;fono: </strong> (81) 83435058 <br>
 							<strong>Correo electr&oacute;nico: </strong> cadhac@cadhac.org <br>
-
 						</p>
 					</aside>
 				</div>

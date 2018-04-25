@@ -2,6 +2,9 @@
 	margin: 0 0 8%;
 	.smaller-container {
 		margin-top: 4%;
+		@media(max-width: 1200px) {
+			width: 100%;
+		}
 	}
 	h1 {
 		margin-bottom: 3%;

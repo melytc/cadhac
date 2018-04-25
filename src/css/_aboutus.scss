@@ -2,7 +2,7 @@
 .aboutus.content {
 	margin-bottom: 0;
 	.banner {
-		background-position: center bottom -110px;
+		background-position: center center;
 		padding: 15% 0;
 		&.bg-black-alpha:before {
 			background: rgba(0,0,0,.5);
@@ -22,10 +22,24 @@
 	.row.nog > div{
 		padding: 0;
 	}
+	@media (max-width: 576px) {
+		.one.one.one p {
+			font-size: 14px;
+		}
+	}
 	.recs, .semblanza {
 		padding: 6%;
 		h2 {
 			margin-bottom: 30px;
+		}
+		@media(max-width: 900px) {
+			font-size: 14px;
+		}
+	}
+	@media(max-width: 768px) {
+		.consuelo {
+			min-height: 400px;
+			background-position: center top;
 		}
 	}
 	.reconocimientos .img-bg{

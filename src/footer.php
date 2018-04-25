@@ -3,7 +3,7 @@
 		<section class="unete">
 			<div class="container-fluid nospace">
 				<div class="row">
-					<div class="col-md-5 img-bg d-sm-none d-md-block" data-bg="img/unete.jpg">
+					<div class="col-md-5 img-bg d-none d-md-block" data-bg="img/unete.jpg">
 					</div>
 					<div class="col-md-7 bg-primary">
 						<div class="padthis">
@@ -18,7 +18,7 @@
 		</section>
 	<?php endif; ?>
 	
-	<section class="contacto">
+	<section class="contacto py-5 py-sm-5">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-9">

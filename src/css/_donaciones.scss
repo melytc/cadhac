@@ -5,10 +5,18 @@
 	.lh120p {
 		line-height: 180%;
 	}
+	@media(max-width: 992px) {
+		.smaller-container {
+			width: 100%;
+		}
+	}
 	.donation-widget {
 		width: 70%;
 		margin: 0 auto;
 		padding: 6% 0;
+		@media(max-width: 768px) {
+			width: 100%;
+		}
 		.row {
 			margin-bottom: 30px;
 		}
@@ -17,6 +25,7 @@
 			color: #444;
 			font-size: 28px;
 			font-weight: 700;
+
 			&.lgray {
 				color: #999;
 			}
@@ -27,6 +36,9 @@
 			&.active {
 				background-color: $lightgreen;
 				color: #fff;
+			}
+			@media(max-width: 576px) {
+				font-size: 18px;
 			}
 		}
 		.submit-btn {

@@ -3,11 +3,11 @@
 	<div class="container">
 		<h1>Comunicados</h1>
 		<div class="row">
-			<div class="col-md-9 bloglist" style="padding-right: 60px">
+			<div class="col-lg-9 bloglist pr-md-5">
 				<article class="_s-post">
 					<div class="row">
 						<div class="col-md-3">
-							<a href="#"><img src="img/temppost.jpg" alt="Title of the post"></a>
+							<a class="post-img" href="#"><img src="img/temppost.jpg" alt="Title of the post"></a>
 						</div>
 						<div class="col-md-9">
 							<a href="#" class="date">26 de marzo de 2018</a>
@@ -21,7 +21,7 @@
 				<article class="_s-post">
 					<div class="row">
 						<div class="col-md-3">
-							<a href="#"><img src="img/temppost.jpg" alt="Title of the post"></a>
+							<a class="post-img" href="#"><img src="img/temppost.jpg" alt="Title of the post"></a>
 						</div>
 						<div class="col-md-9">
 							<a href="#" class="date">26 de marzo de 2018</a>
@@ -33,7 +33,7 @@
 					</div>
 				</article>
 			</div>
-			<div class="col-md-3">
+			<div class="col-lg-3">
 				<aside class="sidebar">
 					<section class="search">
 						<form action="#" class="search-form">
