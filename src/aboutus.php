@@ -170,4 +170,26 @@
 				
 	</section>
 </div>
+
+<script>
+	(function(){
+		var awards = document.querySelectorAll('.award');
+		for (var i = 0; i < awards.length; i++) {
+			var links = awards[i].querySelectorAll('a');
+			for (var j = 0; j < links.length; j++) {
+				links[j].addEventListener('click', handleClick);
+			}
+		}
+
+		function handleClick(e) { 
+			e.preventDefault();
+			if(e.target.parentNode.parentNode.parentNode.classList.contains('active'))
+				return;
+			for (var i = 0; i < awards.length; i++) {
+				awards[i].classList.remove('active');
+			}
+			e.target.parentNode.parentNode.parentNode.classList.add('active');
+		}
+	})();
+</script>
 <?php include "footer.php" ?>

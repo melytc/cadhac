@@ -4,9 +4,7 @@
 // });
 
 (function(){
-	console.log("hello world");
 	var imgdivs = document.querySelectorAll('.img-bg');
-	console.log(imgdivs);
 	for (var i = 0; i < imgdivs.length; i++) {
 		if(imgdivs[i].dataset.bg) {
 			var url = imgdivs[i].dataset.bg;

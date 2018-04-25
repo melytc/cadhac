@@ -27,24 +27,24 @@
 			</div>
 			<section class="donation-widget">
 				<p class="tar ttu sep"><small>Montos expresados en MXN</small></p>
-				<div class="row no-gutters">
+				<div class="row no-gutters frequency" data-name="frequency">
 					<div class="col">
-						<a href="#" class="btn active option-select lgray">Donaci&oacute;n mensual</a>
+						<a href="#" data-val="monthly" class="btn active option-select lgray">Donaci&oacute;n mensual</a>
 					</div>
 					<div class="col">
-						<a href="#" class="btn option-select lgray">Una sola vez</a>
+						<a href="#" data-val="once" class="btn option-select lgray">Una sola vez</a>
 					</div>
 				</div>
 
-				<div class="row no-gutters">
-					<div class="col"><a href="#" class="btn option-select">$100</a></div>
-					<div class="col"><a href="#" class="btn option-select active">$200</a></div>
-					<div class="col"><a href="#" class="btn option-select">$500</a></div>
-					<div class="col"><a href="#" class="btn option-select">$1,000</a></div>
-					<div class="col"><a href="#" class="btn option-select">Otro</a></div>
+				<div class="row no-gutters amount" data-name="amount">
+					<div class="col"><a href="#" data-val="100" class="btn option-select">$100</a></div>
+					<div class="col"><a href="#" data-val="200" class="btn option-select active">$200</a></div>
+					<div class="col"><a href="#" data-val="500" class="btn option-select">$500</a></div>
+					<div class="col"><a href="#" data-val="1000" class="btn option-select">$1,000</a></div>
+					<div class="col"><a href="#" data-val="Other" class="btn option-select">Otro</a></div>
 				</div>
 				<div class="row no-gutters">
-					<div class="col"><a href="#" class="btn bg-primary submit-btn ttu">Donar</a></div>
+					<div class="col"><a href="#" id="donateBtn" class="btn bg-primary submit-btn ttu">Donar</a></div>
 				</div>
 				<div class="row">
 					<div class="col-md-6 offset-md-3 tac">
@@ -56,4 +56,5 @@
 		</div>
 	</div>
 </div>
+<script src="js/donaciones.js"></script>
 <?php include 'footer.php'; ?>
