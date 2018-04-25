@@ -17,14 +17,14 @@
 </head>
 <body>
 	<header class="main">
-		<div class="container">
+		<div class="container ">
 			<div class="row">
-				<div class="col">
+				<div class="col-12 col-sm-6 d-flex justify-content-center justify-content-sm-start">
 					<a class="logo" href="/"><img src="img/cadhaclogo.svg" alt="CADHAC"/></a>
 				</div>
-				<div class="col">
-					<div class="row justify-content-end align-items-center">
-						<a class="language ttu d-none" href="#">English</a>
+				<div class="col-12 col-sm-6 d-flex justify-content-center justify-content-sm-end mt-4 mt-sm-0">
+					<div class="row align-items-center">
+						<a class="language ttu" href="#">English</a>
 						<a class="btn bg-accent ttu" href="donaciones.php">Dona</a>
 					</div>
 				</div>
