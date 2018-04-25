@@ -39,6 +39,7 @@
 						</button>
 						<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 							<div class="navbar-nav">
+								<a class="nav-item nav-link ttu" href="/">Inicio</a>
 								<a class="nav-item nav-link ttu" href="aboutus.php">Sobre nosostros</a>
 								<a class="nav-item nav-link ttu" href="quehacemos.php">Qu&eacute; hacemos</a>
 								<a class="nav-item nav-link ttu d-none" href="#">Comunicados</a>
