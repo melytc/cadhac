@@ -3,7 +3,7 @@
 	<section class="banner bg-black-alpha img-bg" data-bg="img/pexels.jpg">
 		<div class="container">
 			<h1 class="white">Desaparecidos</h1>
-			<p class="subtitle white">&iquest;Lorem ipsum dolor sit amet?</p>
+			<p class="subtitle white">&iquest;D&oacute;nde est&aacute;n?</p>
 		</div>
 	</section>
 	<div class="container">
