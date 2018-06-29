@@ -14,7 +14,7 @@
 						<a href="#" class="btn download-data">Descarga los datos</a>
 						<section class="filter year">
 							<div class="form-group">
-								<label for="year">A&ntilde;o de desaparici&oacute;n</label>
+								<p class="label" for="year">A&ntilde;o de desaparici&oacute;n</p>
 								<select class="form-control" name="year" id="year">
 									<option selected value="">2018</option>
 								</select>
@@ -37,6 +37,8 @@
 						</section>
 						<section class="filter age">
 							<p class="label">Edad a la fecha de desaparici&oacute;n</p>
+							<input name="age" type="range" min="10" max="90" step="1"/>
+							<input name="age" type="range" min="10" max="90" step="1"/>
 						</section>
 						<section class="filter gender">
 							<div class="form-group">
