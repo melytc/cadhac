@@ -37,8 +37,27 @@
 						</section>
 						<section class="filter age">
 							<p class="label">Edad a la fecha de desaparici&oacute;n</p>
-							<input name="age" type="range" min="10" max="90" step="1"/>
-							<input name="age" type="range" min="10" max="90" step="1"/>
+							<form name="myform" oninput="range1value.value = range1.valueAsNumber; range2value.value = range2.valueAsNumber">
+								<div class="row">
+									<div class="col-3">
+										<label for="formControlRange">De:</label>
+										<output name="range1value" for="range1">10</output>
+									</div>
+									<div class="col-8">
+										<input name="range1" class="form-control-range" id="formControlRange" type="range" step="1" min="10" max="90" value="10">
+									</div>
+								</div>
+								
+								<div class="row">
+									<div class="col-3">
+										<label for="formControlRange">A:</label>
+										<output name="range2value" for="range2">90</output>
+									</div>
+									<div class="col-8">
+										<input name="range2" class="form-control-range" id="formControlRange" type="range" step="1" min="10" max="90" value="90">
+									</div>
+								</div>
+							</form>
 						</section>
 						<section class="filter gender">
 							<div class="form-group">
@@ -60,8 +79,8 @@
 						<input type="text" name="q" id="q" placeholder="Buscar">
 						<i class="fa fa-search">
 							<svg id="i-search" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="#bbb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-							    <circle cx="14" cy="14" r="12" />
-							    <path d="M23 23 L30 30"  />
+								<circle cx="14" cy="14" r="12" />
+								<path d="M23 23 L30 30"  />
 							</svg>
 						</i>
 					</form>
