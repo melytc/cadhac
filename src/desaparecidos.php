@@ -156,10 +156,10 @@
 												<img class="col" src="img/pexels.jpg" alt="">
 												<div class="col">
 													<div class="text-description">
-														<p>Nombre: H&eacute;ctor Rinc&oacute;n</p>
-														<p>Fecha de desaparici&oacute;n: 1 de enero de 2018</p>
-														<p>Lugar de desaparici&oacute;n: Monterrey</p>
-														<p>Apariencia f&iacute;sica: 1.70m, cabellos negro, ojos caf&eacute;s.</p>
+														<p><strong>Nombre:</strong> H&eacute;ctor Rinc&oacute;n</p>
+														<p><strong>Fecha de desaparici&oacute;n:</strong> 1 de enero de 2018</p>
+														<p><strong>Lugar de desaparici&oacute;n:</strong> Monterrey</p>
+														<p><strong>Apariencia f&iacute;sica:</strong> 1.70m, cabellos negro, ojos caf&eacute;s.</p>
 													</div>
 													<a class="btn bg-secondary ttu" href="#">Ver imagen</a>
 													<a class="btn bg-primary ttu" href="contacto.php">Contactar a CADHAC</a>
