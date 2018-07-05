@@ -86,15 +86,28 @@
 			padding: 8px 10px;
 		}
 	}
-	.desaparecidos-wrap .row {
+	.desaparecidos-wrap>.row {
 		margin-bottom: 30px;
+		.btn {
+			width: 60%;
+			margin: 7px 7px 7px 0px;
+		}
+		.card-body {
+			margin: 20px 0px 20px 0px;
+			text-align: left;
+		}
+		div.col {
+			padding: 40px;
+		}
+		.text-description{
+			padding-bottom: 15px;
+			p {
+				margin-bottom: 0.5rem;
+				color: black;
+			}
+		}
 	}
 	.person {
-		.description {
-			padding: 0 18px;
-			display: none;
-			overflow: hidden;
-		}
 		&:hover .overlay, .active {
 			opacity: 1;
 		}

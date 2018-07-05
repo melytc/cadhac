@@ -97,80 +97,76 @@
 								<div class="col-sm-3 person tac">
 									<div class="collapsible">
 										<div class="round-img">
-											<button href="#"><img src="img/pexels.jpg" alt="" class="profile"></button>
-											<div class="overlay">
-												<svg id="i-plus" viewBox="0 0 32 32" width="32" height="32" fill="#ffffff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"> <path fill="#ffffff" d="M16 2 L16 30 M2 16 L30 16" /> </svg>
+											<a data-toggle="collapse" href="#collapseDescription" role="button" aria-expanded="false">
+												<img src="img/pexels.jpg" alt="" class="profile">
+												<div class="overlay">
+													<svg id="i-plus" viewBox="0 0 32 32" width="32" height="32" fill="#ffffff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"> <path fill="#ffffff" d="M16 2 L16 30 M2 16 L30 16" /> </svg>
+												</div>
+											</a>	
+										</div>
+										<a class="name" data-toggle="collapse" href="#collapseDescription" role="button" aria-expanded="false" aria-controls="collapseDescription">H&eacute;ctor Rinc&oacute;n</a>
+									</div>
+								</div>
+
+								<div class="col-sm-3 person tac">
+									<div class="collapsible">
+										<div class="round-img">
+											<a data-toggle="collapse" href="#collapseDescription" role="button" aria-expanded="false">
+												<img src="img/pexels.jpg" alt="" class="profile">
+												<div class="overlay">
+													<svg id="i-plus" viewBox="0 0 32 32" width="32" height="32" fill="#ffffff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"> <path fill="#ffffff" d="M16 2 L16 30 M2 16 L30 16" /> </svg>
+												</div>
+											</a>	
+										</div>
+										<a class="name" data-toggle="collapse" href="#collapseDescription" role="button" aria-expanded="false" aria-controls="collapseDescription">H&eacute;ctor Rinc&oacute;n</a>
+									</div>
+								</div>
+
+								<div class="col-sm-3 person tac">
+									<div class="collapsible">
+										<div class="round-img">
+											<a data-toggle="collapse" href="#collapseDescription" role="button" aria-expanded="false">
+												<img src="img/pexels.jpg" alt="" class="profile">
+												<div class="overlay">
+													<svg id="i-plus" viewBox="0 0 32 32" width="32" height="32" fill="#ffffff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"> <path fill="#ffffff" d="M16 2 L16 30 M2 16 L30 16" /> </svg>
+												</div>
+											</a>	
+										</div>
+										<a class="name" data-toggle="collapse" href="#collapseDescription" role="button" aria-expanded="false" aria-controls="collapseDescription">H&eacute;ctor Rinc&oacute;n</a>
+									</div>
+								</div>
+
+								<div class="col-sm-3 person tac">
+									<div class="collapsible">
+										<div class="round-img">
+											<a data-toggle="collapse" href="#collapseDescription" role="button" aria-expanded="false">
+												<img src="img/pexels.jpg" alt="" class="profile">
+												<div class="overlay">
+													<svg id="i-plus" viewBox="0 0 32 32" width="32" height="32" fill="#ffffff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"> <path fill="#ffffff" d="M16 2 L16 30 M2 16 L30 16" /> </svg>
+												</div>
+											</a>	
+										</div>
+										<a class="name" data-toggle="collapse" href="#collapseDescription" role="button" aria-expanded="false" aria-controls="collapseDescription">H&eacute;ctor Rinc&oacute;n</a>
+									</div>
+								</div>
+
+								<div class="collapse" id="collapseDescription">
+										<div class="card card-body">
+											<div class="row">
+												<img class="col" src="img/pexels.jpg" alt="">
+												<div class="col">
+													<div class="text-description">
+														<p>Nombre: H&eacute;ctor Rinc&oacute;n</p>
+														<p>Fecha de desaparici&oacute;n: 1 de enero de 2018</p>
+														<p>Lugar de desaparici&oacute;n: Monterrey</p>
+														<p>Apariencia f&iacute;sica: 1.70m, cabellos negro, ojos caf&eacute;s.</p>
+													</div>
+													<a class="btn bg-secondary ttu" href="#">Ver imagen</a>
+													<a class="btn bg-primary ttu" href="contacto.php">Contactar a CADHAC</a>
+												</div>
 											</div>
 										</div>
-										<a href="#" class="name">H&eacute;ctor Rinc&oacute;n</a>
 									</div>
-									<div class="description">
-										<img src="img/pexels.jpg" alt="" class="description">
-										<p>Nombre: H&eacute;ctor Rinc&oacute;n</p>
-										<p>Fecha de desaparici&oacute;n: 1 de enero de 2018</p>
-										<p>Lugar de desaparici&oacute;n: Monterrey</p>
-										<p>Apariencia f&iacute;sica: 1.70m, cabellos negro, ojos caf&acute;s.</p>
-										<button>Ver imagen</button>
-										<button>Contactar a CADHAC</button>
-									</div>
-								</div>
-
-								<div class="col-sm-3 person tac">
-									<div class="round-img">
-										<button href="#"><img src="img/pexels.jpg" alt="" class="profile collapsible"></button>
-										<div class="overlay">
-											<svg id="i-plus" viewBox="0 0 32 32" width="32" height="32" fill="#ffffff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"> <path fill="#ffffff" d="M16 2 L16 30 M2 16 L30 16" /> </svg>
-										</div>
-									</div>
-									<a href="#" class="name">H&eacute;ctor Rinc&oacute;n</a>
-									<div class="description">
-										<img src="img/pexels.jpg" alt="" class="description">
-										<p>Nombre: H&eacute;ctor Rinc&oacute;n</p>
-										<p>Fecha de desaparici&oacute;n: 1 de enero de 2018</p>
-										<p>Lugar de desaparici&oacute;n: Monterrey</p>
-										<p>Apariencia f&iacute;sica: 1.70m, cabellos negro, ojos caf&acute;s.</p>
-										<button>Ver imagen</button>
-										<button>Contactar a CADHAC</button>
-									</div>
-								</div>
-
-								<div class="col-sm-3 person tac">
-									<div class="round-img">
-										<button href="#"><img src="img/pexels.jpg" alt="" class="profile collapsible"></button>
-										<div class="overlay">
-											<svg id="i-plus" viewBox="0 0 32 32" width="32" height="32" fill="#ffffff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"> <path fill="#ffffff" d="M16 2 L16 30 M2 16 L30 16" /> </svg>
-										</div>
-									</div>
-									<a href="#" class="name">H&eacute;ctor Rinc&oacute;n</a>
-									<div class="description">
-										<img src="img/pexels.jpg" alt="" class="description">
-										<p>Nombre: H&eacute;ctor Rinc&oacute;n</p>
-										<p>Fecha de desaparici&oacute;n: 1 de enero de 2018</p>
-										<p>Lugar de desaparici&oacute;n: Monterrey</p>
-										<p>Apariencia f&iacute;sica: 1.70m, cabellos negro, ojos caf&acute;s.</p>
-										<button>Ver imagen</button>
-										<button>Contactar a CADHAC</button>
-									</div>
-								</div>
-
-								<div class="col-sm-3 person tac">
-									<div class="round-img">
-										<button href="#"><img src="img/pexels.jpg" alt="" class="profile collapsible"></button>
-										<div class="overlay">
-											<svg id="i-plus" viewBox="0 0 32 32" width="32" height="32" fill="#ffffff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"> <path fill="#ffffff" d="M16 2 L16 30 M2 16 L30 16" /> </svg>
-										</div>
-									</div>
-									<a href="#" class="name">H&eacute;ctor Rinc&oacute;n</a>
-									<div class="description">
-										<img src="img/pexels.jpg" alt="" class="description">
-										<p>Nombre: H&eacute;ctor Rinc&oacute;n</p>
-										<p>Fecha de desaparici&oacute;n: 1 de enero de 2018</p>
-										<p>Lugar de desaparici&oacute;n: Monterrey</p>
-										<p>Apariencia f&iacute;sica: 1.70m, cabellos negro, ojos caf&acute;s.</p>
-										<button>Ver imagen</button>
-										<button>Contactar a CADHAC</button>
-									</div>
-								</div>
 							</div>
 						<?php endfor; ?>
 					</div>
@@ -179,21 +175,4 @@
 		</div>
 	</div>
 </div>
-
-<script>
-	var coll = document.getElementsByClassName("collapsible");
-	var i;
-
-	for (i = 0; i < coll.length; i++) {
-		coll[i].addEventListener("click", function() {
-			this.classList.toggle("active");
-			var description = this.nextElementSibling;
-			if (description.style.display === "block") {
-				description.style.display = "none";
-			} else {
-				description.style.display = "block";
-			}
-		});
-	}
-</script>
 <?php include 'footer.php'; ?>
