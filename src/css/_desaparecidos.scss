@@ -22,7 +22,7 @@
 			margin: 30px 0;
 		}
 		.form-check label{
-			font-size: 1.1rem;
+			font-size: 1rem;
 		}
 	}
 	@media(max-width: 576px) {
@@ -82,15 +82,33 @@
 			width: 100%;
 			border: 0 none;
 			border-bottom: 1px solid #ccc;
-			font-size: 1.8rem;
+			font-size: 1.2rem;
 			padding: 8px 10px;
 		}
 	}
-	.desaparecidos-wrap .row {
+	.desaparecidos-wrap>.row {
 		margin-bottom: 30px;
+		.btn {
+			width: 70%;
+			margin: 7px 7px 7px 0px;
+		}
+		.card-body {
+			margin: 20px 0px 20px 0px;
+			text-align: left;
+		}
+		div.col {
+			padding: 40px;
+		}
+		.text-description{
+			padding-bottom: 15px;
+			p {
+				margin-bottom: 0.5rem;
+				color: black;
+			}
+		}
 	}
 	.person {
-		&:hover .overlay {
+		&:hover .overlay, .active {
 			opacity: 1;
 		}
 		.name {
